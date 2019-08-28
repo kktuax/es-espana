@@ -70,18 +70,20 @@ Jornada 4
 
 
 Jornada 5
+[Vie. 13.9.]
+ 21:00 Rayo Vallecano          - Racing Santander
+[Sáb. 14.9.]
+ 16:00 CD Numancia             - SD Huesca
+ 16:00 CD Mirandes             - FC Malaga
+ 18:30 UD Las Palmas           - UD Almeria
+ 20:30 SD Ponferradina         - AD Alcorcon
+ 20:30 FC Cadiz                - FC Girona
 [Dom. 15.9.]
- 18:00 Real Oviedo             - FC Elche
+ 12:00 Albacete Balompie       - CD Teneriffa
+ 16:00 Real Oviedo             - FC Elche
  18:00 Real Saragossa          - Extremadura UD
- 18:00 Sporting Gijon          - Deportivo La Coruna
- 18:00 Rayo Vallecano          - Racing Santander
- 18:00 UD Las Palmas           - UD Almeria
- 18:00 CD Numancia             - SD Huesca
- 18:00 Albacete Balompie       - CD Teneriffa
- 18:00 SD Ponferradina         - AD Alcorcon
- 18:00 FC Cadiz                - FC Girona
- 18:00 CD Mirandes             - FC Malaga
- 18:00 CD Lugo                 - CF Fuenlabrada
+ 20:00 CD Lugo                 - CF Fuenlabrada
+ 21:00 Sporting Gijon          - Deportivo La Coruna
 
 
 Jornada 6
