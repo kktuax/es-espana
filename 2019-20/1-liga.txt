@@ -39,10 +39,10 @@ Jornada 3
  20:00 FC Sevilla              1-1 Celta Vigo
  22:00 Athletic Bilbao         2-0 Real Sociedad San Sebastian
 [Sáb. 31.8.]
- 17:00 CA Osasuna              - FC Barcelona
- 19:00 FC Getafe               - Deportivo Alaves
- 19:00 UD Levante              - Real Valladolid
- 21:00 Real Betis Sevilla      - CD Leganes
+ 17:00 CA Osasuna              2-2 FC Barcelona
+ 19:00 FC Getafe               1-1 Deportivo Alaves
+ 19:00 UD Levante              2-0 Real Valladolid
+ 21:00 Real Betis Sevilla      2-1 CD Leganes
 [Dom. 1.9.]
  17:00 FC Valencia             - RCD Mallorca
  19:00 Espanyol Barcelona      - FC Granada
@@ -115,17 +115,19 @@ Jornada 7
 
 
 Jornada 8
-[Dom. 6.10.]
- 18:30 Celta Vigo              - Athletic Bilbao
- 18:30 Real Valladolid         - Atletico Madrid
- 18:30 Real Betis Sevilla      - SD Eibar
- 18:30 Real Madrid             - FC Granada
- 18:30 FC Barcelona            - FC Sevilla
- 18:30 Real Sociedad San Sebastian - FC Getafe
- 18:30 RCD Mallorca            - Espanyol Barcelona
+[Vie. 4.10.]
+ 21:00 Celta Vigo              - Athletic Bilbao
+[Sáb. 5.10.]
+ 13:00 CD Leganes              - UD Levante
+ 16:00 Real Madrid             - FC Granada
  18:30 FC Valencia             - Deportivo Alaves
- 18:30 CD Leganes              - UD Levante
- 18:30 CA Osasuna              - FC Villarreal
+ 21:00 Real Betis Sevilla      - SD Eibar
+[Dom. 6.10.]
+ 12:00 RCD Mallorca            - Espanyol Barcelona
+ 14:00 Real Valladolid         - Atletico Madrid
+ 16:00 CA Osasuna              - FC Villarreal
+ 18:30 Real Sociedad San Sebastian - FC Getafe
+ 21:00 FC Barcelona            - FC Sevilla
 
 
 Jornada 9
