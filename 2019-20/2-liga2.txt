@@ -93,10 +93,10 @@ Jornada 6
  19:00 UD Almeria              3-1 FC Girona
  21:00 AD Alcorcon             3-0 FC Cadiz
 [Mié. 18.9.]
- 19:00 CD Lugo                 - SD Ponferradina
+ 19:00 CD Lugo                 2-2 SD Ponferradina
  19:00 CF Fuenlabrada          - Real Saragossa
- 19:00 SD Huesca               - Albacete Balompie
- 21:00 Deportivo La Coruna     - CD Numancia
+ 19:00 SD Huesca               0-1 Albacete Balompie
+ 21:00 Deportivo La Coruna     3-3 CD Numancia
 [Jue. 19.9.]
  19:00 Real Oviedo             - Extremadura UD
  19:00 FC Elche                - CD Teneriffa
@@ -172,18 +172,20 @@ Jornada 10
 
 
 Jornada 11
-[Dom. 13.10.]
- 18:00 Sporting Gijon          - AD Alcorcon
- 18:00 Rayo Vallecano          - CD Teneriffa
- 18:00 UD Las Palmas           - Deportivo La Coruna
+[Vie. 11.10.]
+ 21:00 Rayo Vallecano          - CD Teneriffa
+[Sáb. 12.10.]
+ 12:00 FC Girona               - FC Elche
+ 16:00 Sporting Gijon          - AD Alcorcon
+ 16:00 UD Almeria              - CD Lugo
  18:00 FC Malaga               - FC Cadiz
- 18:00 CD Numancia             - Real Saragossa
- 18:00 Albacete Balompie       - Real Oviedo
- 18:00 UD Almeria              - CD Lugo
- 18:00 CD Mirandes             - CF Fuenlabrada
- 18:00 FC Girona               - FC Elche
- 18:00 SD Huesca               - Racing Santander
  18:00 Extremadura UD          - SD Ponferradina
+[Dom. 13.10.]
+ 12:00 CD Mirandes             - CF Fuenlabrada
+ 16:00 CD Numancia             - Real Saragossa
+ 18:00 Albacete Balompie       - Real Oviedo
+ 18:00 SD Huesca               - Racing Santander
+ 21:00 UD Las Palmas           - Deportivo La Coruna
 
 
 Jornada 12
