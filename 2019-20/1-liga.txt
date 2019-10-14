@@ -194,17 +194,19 @@ Jornada 12
 
 
 Jornada 13
-[Dom. 10.11.]
- 18:30 Athletic Bilbao         - UD Levante
- 18:30 Real Betis Sevilla      - FC Sevilla
- 18:30 Atletico Madrid         - Espanyol Barcelona
- 18:30 FC Barcelona            - Celta Vigo
- 18:30 Real Sociedad San Sebastian - CD Leganes
- 18:30 RCD Mallorca            - FC Villarreal
- 18:30 FC Valencia             - FC Granada
- 18:30 Deportivo Alaves        - Real Valladolid
- 18:30 FC Getafe               - CA Osasuna
+[Vie. 8.11.]
+ 21:00 Real Sociedad San Sebastian - CD Leganes
+[Sáb. 9.11.]
+ 13:00 Deportivo Alaves        - Real Valladolid
+ 16:00 FC Valencia             - FC Granada
  18:30 SD Eibar                - Real Madrid
+ 21:00 FC Barcelona            - Celta Vigo
+[Dom. 10.11.]
+ 12:00 RCD Mallorca            - FC Villarreal
+ 14:00 Athletic Bilbao         - UD Levante
+ 16:00 Atletico Madrid         - Espanyol Barcelona
+ 18:30 FC Getafe               - CA Osasuna
+ 21:00 Real Betis Sevilla      - FC Sevilla
 
 
 Jornada 14

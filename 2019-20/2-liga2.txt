@@ -241,18 +241,20 @@ Jornada 14
 
 
 Jornada 15
-[Dom. 10.11.]
- 18:00 Racing Santander        - SD Ponferradina
- 18:00 Deportivo La Coruna     - FC Elche
+[Vie. 8.11.]
+ 21:00 FC Girona               - CD Teneriffa
+[Sáb. 9.11.]
+ 16:00 CD Mirandes             - Extremadura UD
+ 16:00 SD Huesca               - Real Oviedo
  18:00 Sporting Gijon          - CD Numancia
- 18:00 Rayo Vallecano          - FC Cadiz
- 18:00 UD Las Palmas           - AD Alcorcon
- 18:00 FC Malaga               - CF Fuenlabrada
  18:00 Albacete Balompie       - CD Lugo
- 18:00 UD Almeria              - Real Saragossa
- 18:00 CD Mirandes             - Extremadura UD
- 18:00 FC Girona               - CD Teneriffa
- 18:00 SD Huesca               - Real Oviedo
+ 20:00 UD Las Palmas           - AD Alcorcon
+[Dom. 10.11.]
+ 12:00 Deportivo La Coruna     - FC Elche
+ 16:00 UD Almeria              - Real Saragossa
+ 18:00 Racing Santander        - SD Ponferradina
+ 18:00 FC Malaga               - CF Fuenlabrada
+ 21:00 Rayo Vallecano          - FC Cadiz
 
 
 Jornada 16
