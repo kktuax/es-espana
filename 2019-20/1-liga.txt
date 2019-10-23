@@ -150,7 +150,6 @@ Jornada 10
 [Vie. 25.10.]
  21:00 FC Villarreal           - Deportivo Alaves
 [Sáb. 26.10.]
- 13:00 FC Barcelona            - Real Madrid
  16:00 CD Leganes              - RCD Mallorca
  18:30 Real Valladolid         - SD Eibar
  21:00 Atletico Madrid         - Athletic Bilbao
@@ -160,6 +159,8 @@ Jornada 10
  16:00 UD Levante              - Espanyol Barcelona
  18:30 FC Sevilla              - FC Getafe
  21:00 CA Osasuna              - FC Valencia
+[Mié. 18.12.]
+ 21:00 FC Barcelona            - Real Madrid
 
 
 Jornada 11
