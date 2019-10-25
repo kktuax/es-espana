@@ -148,7 +148,7 @@ Jornada 9
 
 Jornada 10
 [Vie. 25.10.]
- 21:00 FC Villarreal           - Deportivo Alaves
+ 21:00 FC Villarreal           4-1 Deportivo Alaves
 [Sáb. 26.10.]
  16:00 CD Leganes              - RCD Mallorca
  18:30 Real Valladolid         - SD Eibar
@@ -211,17 +211,19 @@ Jornada 13
 
 
 Jornada 14
-[Dom. 24.11.]
- 18:30 Espanyol Barcelona      - FC Getafe
- 18:30 Real Valladolid         - FC Sevilla
- 18:30 Real Betis Sevilla      - FC Valencia
- 18:30 Real Madrid             - Real Sociedad San Sebastian
- 18:30 FC Villarreal           - Celta Vigo
- 18:30 CD Leganes              - FC Barcelona
- 18:30 CA Osasuna              - Athletic Bilbao
- 18:30 SD Eibar                - Deportivo Alaves
- 18:30 UD Levante              - RCD Mallorca
+[Vie. 22.11.]
+ 21:00 UD Levante              - RCD Mallorca
+[Sáb. 23.11.]
+ 13:00 CD Leganes              - FC Barcelona
+ 16:00 Real Betis Sevilla      - FC Valencia
  18:30 FC Granada              - Atletico Madrid
+ 21:00 Real Madrid             - Real Sociedad San Sebastian
+[Dom. 24.11.]
+ 12:00 Espanyol Barcelona      - FC Getafe
+ 14:00 CA Osasuna              - Athletic Bilbao
+ 16:00 SD Eibar                - Deportivo Alaves
+ 18:30 FC Villarreal           - Celta Vigo
+ 21:00 Real Valladolid         - FC Sevilla
 
 
 Jornada 15

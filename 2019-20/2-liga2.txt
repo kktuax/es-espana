@@ -208,7 +208,7 @@ Jornada 12
 
 Jornada 13
 [Vie. 25.10.]
- 21:00 Albacete Balompie       - FC Cadiz
+ 21:00 Albacete Balompie       1-0 FC Cadiz
 [Sáb. 26.10.]
  16:00 Rayo Vallecano          - SD Ponferradina
  18:00 Racing Santander        - Deportivo La Coruna
@@ -274,18 +274,20 @@ Jornada 16
 
 
 Jornada 17
-[Dom. 24.11.]
+[Vie. 22.11.]
+ 21:00 Sporting Gijon          - CD Teneriffa
+[Sáb. 23.11.]
+ 16:00 Rayo Vallecano          - Real Saragossa
  18:00 Racing Santander        - Extremadura UD
  18:00 Deportivo La Coruna     - AD Alcorcon
- 18:00 Sporting Gijon          - CD Teneriffa
- 18:00 Rayo Vallecano          - Real Saragossa
+ 20:00 SD Huesca               - SD Ponferradina
+[Dom. 24.11.]
+ 12:00 UD Almeria              - CD Numancia
+ 16:00 FC Malaga               - FC Elche
+ 16:00 Albacete Balompie       - CD Mirandes
  18:00 UD Las Palmas           - Real Oviedo
- 18:00 FC Malaga               - FC Elche
- 18:00 Albacete Balompie       - CD Mirandes
- 18:00 UD Almeria              - CD Numancia
- 18:00 FC Cadiz                - CD Lugo
  18:00 FC Girona               - CF Fuenlabrada
- 18:00 SD Huesca               - SD Ponferradina
+ 21:00 FC Cadiz                - CD Lugo
 
 
 Jornada 18
