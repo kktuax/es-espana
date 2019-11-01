@@ -291,18 +291,20 @@ Jornada 17
 
 
 Jornada 18
-[Dom. 1.12.]
+[Vie. 29.11.]
+ 21:00 CD Numancia             - FC Malaga
+[Sáb. 30.11.]
+ 16:00 CD Mirandes             - Sporting Gijon
+ 16:00 AD Alcorcon             - SD Huesca
  18:00 Real Oviedo             - Rayo Vallecano
- 18:00 Real Saragossa          - FC Girona
- 18:00 CD Teneriffa            - UD Almeria
- 18:00 CD Numancia             - FC Malaga
- 18:00 FC Elche                - Racing Santander
  18:00 SD Ponferradina         - Albacete Balompie
- 18:00 CD Mirandes             - Sporting Gijon
+ 21:00 Real Saragossa          - FC Girona
+[Dom. 1.12.]
+ 12:00 CF Fuenlabrada          - FC Cadiz
+ 16:00 CD Teneriffa            - UD Almeria
+ 18:00 FC Elche                - Racing Santander
  18:00 CD Lugo                 - Deportivo La Coruna
- 18:00 CF Fuenlabrada          - FC Cadiz
- 18:00 AD Alcorcon             - SD Huesca
- 18:00 Extremadura UD          - UD Las Palmas
+ 20:00 Extremadura UD          - UD Las Palmas
 
 
 Jornada 19

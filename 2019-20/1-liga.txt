@@ -174,9 +174,9 @@ Jornada 11
  21:00 Real Betis Sevilla      2-1 Celta Vigo
  21:15 Real Madrid             5-0 CD Leganes
 [Jue. 31.10.]
- 19:00 SD Eibar                - FC Villarreal
- 19:00 RCD Mallorca            - CA Osasuna
- 21:15 FC Getafe               - FC Granada
+ 19:00 SD Eibar                2-1 FC Villarreal
+ 19:00 RCD Mallorca            2-2 CA Osasuna
+ 21:15 FC Getafe               3-1 FC Granada
 
 
 Jornada 12
@@ -227,17 +227,19 @@ Jornada 14
 
 
 Jornada 15
-[Dom. 1.12.]
- 18:30 Celta Vigo              - Real Valladolid
- 18:30 Athletic Bilbao         - FC Granada
- 18:30 Espanyol Barcelona      - CA Osasuna
- 18:30 Atletico Madrid         - FC Barcelona
- 18:30 Real Sociedad San Sebastian - SD Eibar
+[Vie. 29.11.]
+ 21:00 Celta Vigo              - Real Valladolid
+[Sáb. 30.11.]
+ 13:00 Deportivo Alaves        - Real Madrid
+ 16:00 Real Sociedad San Sebastian - SD Eibar
  18:30 RCD Mallorca            - Real Betis Sevilla
- 18:30 FC Valencia             - FC Villarreal
- 18:30 Deportivo Alaves        - Real Madrid
- 18:30 FC Sevilla              - CD Leganes
+ 21:00 FC Valencia             - FC Villarreal
+[Dom. 1.12.]
+ 12:00 FC Sevilla              - CD Leganes
+ 14:00 Athletic Bilbao         - FC Granada
+ 16:00 Espanyol Barcelona      - CA Osasuna
  18:30 FC Getafe               - UD Levante
+ 21:00 Atletico Madrid         - FC Barcelona
 
 
 Jornada 16
