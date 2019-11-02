@@ -225,10 +225,10 @@ Jornada 13
 
 Jornada 14
 [Vie. 1.11.]
- 12:00 CD Numancia             - Albacete Balompie
- 16:00 FC Cadiz                - Sporting Gijon
- 18:30 SD Ponferradina         - FC Malaga
- 21:00 Real Oviedo             - UD Almeria
+ 12:00 CD Numancia             1-0 Albacete Balompie
+ 16:00 FC Cadiz                3-1 Sporting Gijon
+ 18:30 SD Ponferradina         1-0 FC Malaga
+ 21:00 Real Oviedo             0-0 UD Almeria
 [Sáb. 2.11.]
  16:00 CF Fuenlabrada          - Deportivo La Coruna
  18:00 AD Alcorcon             - Racing Santander
@@ -296,12 +296,12 @@ Jornada 18
 [Sáb. 30.11.]
  16:00 CD Mirandes             - Sporting Gijon
  16:00 AD Alcorcon             - SD Huesca
- 18:00 Real Oviedo             - Rayo Vallecano
  18:00 SD Ponferradina         - Albacete Balompie
+ 18:00 CD Teneriffa            - UD Almeria
  21:00 Real Saragossa          - FC Girona
 [Dom. 1.12.]
  12:00 CF Fuenlabrada          - FC Cadiz
- 16:00 CD Teneriffa            - UD Almeria
+ 16:00 Real Oviedo             - Rayo Vallecano
  18:00 FC Elche                - Racing Santander
  18:00 CD Lugo                 - Deportivo La Coruna
  20:00 Extremadura UD          - UD Las Palmas
