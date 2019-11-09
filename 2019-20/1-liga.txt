@@ -196,7 +196,7 @@ Jornada 12
 
 Jornada 13
 [Vie. 8.11.]
- 21:00 Real Sociedad San Sebastian - CD Leganes
+ 21:00 Real Sociedad San Sebastian 1-1 CD Leganes
 [Sáb. 9.11.]
  13:00 Deportivo Alaves        - Real Valladolid
  16:00 FC Valencia             - FC Granada
@@ -243,17 +243,19 @@ Jornada 15
 
 
 Jornada 16
-[Dom. 8.12.]
- 18:30 Real Valladolid         - Real Sociedad San Sebastian
- 18:30 Real Betis Sevilla      - Athletic Bilbao
- 18:30 Real Madrid             - Espanyol Barcelona
- 18:30 FC Barcelona            - RCD Mallorca
- 18:30 FC Villarreal           - Atletico Madrid
- 18:30 CD Leganes              - Celta Vigo
- 18:30 CA Osasuna              - FC Sevilla
- 18:30 SD Eibar                - FC Getafe
+[Vie. 6.12.]
+ 22:00 FC Villarreal           - Atletico Madrid
+[Sáb. 7.12.]
+ 13:00 Real Madrid             - Espanyol Barcelona
+ 16:00 FC Granada              - Deportivo Alaves
  18:30 UD Levante              - FC Valencia
- 18:30 FC Granada              - Deportivo Alaves
+ 21:00 FC Barcelona            - RCD Mallorca
+[Dom. 8.12.]
+ 12:00 SD Eibar                - FC Getafe
+ 14:00 Real Betis Sevilla      - Athletic Bilbao
+ 16:00 Real Valladolid         - Real Sociedad San Sebastian
+ 18:30 CD Leganes              - Celta Vigo
+ 21:00 CA Osasuna              - FC Sevilla
 
 
 Jornada 17

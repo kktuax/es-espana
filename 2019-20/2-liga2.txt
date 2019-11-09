@@ -242,7 +242,7 @@ Jornada 14
 
 Jornada 15
 [Vie. 8.11.]
- 21:00 FC Girona               - CD Teneriffa
+ 21:00 FC Girona               1-0 CD Teneriffa
 [Sáb. 9.11.]
  16:00 CD Mirandes             - Extremadura UD
  16:00 SD Huesca               - Real Oviedo
@@ -308,18 +308,20 @@ Jornada 18
 
 
 Jornada 19
-[Dom. 8.12.]
- 18:00 Racing Santander        - CF Fuenlabrada
- 18:00 Deportivo La Coruna     - Real Saragossa
+[Vie. 6.12.]
+ 12:00 Albacete Balompie       - Extremadura UD
+ 16:00 Racing Santander        - CF Fuenlabrada
+ 18:30 AD Alcorcon             - Real Oviedo
+ 21:00 FC Malaga               - CD Teneriffa
+[Sáb. 7.12.]
+ 16:00 SD Huesca               - Rayo Vallecano
  18:00 Sporting Gijon          - SD Ponferradina
+ 20:00 UD Almeria              - CD Mirandes
+[Dom. 8.12.]
+ 12:00 FC Girona               - CD Lugo
+ 16:00 Deportivo La Coruna     - Real Saragossa
  18:00 UD Las Palmas           - CD Numancia
- 18:00 FC Malaga               - CD Teneriffa
- 18:00 Albacete Balompie       - Extremadura UD
- 18:00 UD Almeria              - CD Mirandes
- 18:00 FC Cadiz                - FC Elche
- 18:00 FC Girona               - CD Lugo
- 18:00 AD Alcorcon             - Real Oviedo
- 18:00 SD Huesca               - Rayo Vallecano
+ 21:00 FC Cadiz                - FC Elche
 
 
 Jornada 20
