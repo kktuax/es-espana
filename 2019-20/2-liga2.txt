@@ -244,17 +244,17 @@ Jornada 15
 [Vie. 8.11.]
  21:00 FC Girona               1-0 CD Teneriffa
 [Sáb. 9.11.]
- 16:00 CD Mirandes             - Extremadura UD
- 16:00 SD Huesca               - Real Oviedo
- 18:00 Sporting Gijon          - CD Numancia
- 18:00 Albacete Balompie       - CD Lugo
- 20:00 UD Las Palmas           - AD Alcorcon
+ 16:00 CD Mirandes             2-0 Extremadura UD
+ 16:00 SD Huesca               3-1 Real Oviedo
+ 18:00 Sporting Gijon          0-1 CD Numancia
+ 18:00 Albacete Balompie       0-1 CD Lugo
+ 20:00 UD Las Palmas           1-1 AD Alcorcon
 [Dom. 10.11.]
- 12:00 Deportivo La Coruna     - FC Elche
- 16:00 UD Almeria              - Real Saragossa
- 18:00 Racing Santander        - SD Ponferradina
- 18:00 FC Malaga               - CF Fuenlabrada
- 21:00 Rayo Vallecano          - FC Cadiz
+ 12:00 Deportivo La Coruna     1-3 FC Elche
+ 16:00 UD Almeria              1-1 Real Saragossa
+ 18:00 Racing Santander        2-2 SD Ponferradina
+ 18:00 FC Malaga               0-0 CF Fuenlabrada
+ 21:00 Rayo Vallecano          1-1 FC Cadiz
 
 
 Jornada 16
@@ -325,48 +325,54 @@ Jornada 19
 
 
 Jornada 20
-[Dom. 15.12.]
- 18:00 Real Oviedo             - FC Cadiz
- 18:00 Real Saragossa          - Racing Santander
+[Vie. 13.12.]
+ 21:00 CD Numancia             - FC Girona
+[Sáb. 14.12.]
+ 16:00 CD Mirandes             - SD Huesca
  18:00 CD Teneriffa            - AD Alcorcon
- 18:00 Rayo Vallecano          - Albacete Balompie
- 18:00 CD Numancia             - FC Girona
- 18:00 FC Elche                - UD Las Palmas
  18:00 SD Ponferradina         - Deportivo La Coruna
- 18:00 CD Mirandes             - SD Huesca
+ 21:00 Real Saragossa          - Racing Santander
+[Dom. 15.12.]
+ 12:00 Extremadura UD          - FC Malaga
+ 16:00 Real Oviedo             - FC Cadiz
+ 18:00 FC Elche                - UD Las Palmas
  18:00 CD Lugo                 - Sporting Gijon
- 18:00 CF Fuenlabrada          - UD Almeria
- 18:00 Extremadura UD          - FC Malaga
+ 20:00 Rayo Vallecano          - Albacete Balompie
+ 20:00 CF Fuenlabrada          - UD Almeria
 
 
 Jornada 21
-[Dom. 22.12.]
- 18:00 Racing Santander        - Real Oviedo
- 18:00 Deportivo La Coruna     - CD Teneriffa
+[Vie. 20.12.]
+ 21:00 Deportivo La Coruna     - CD Teneriffa
+[Sáb. 21.12.]
+ 16:00 FC Malaga               - CD Lugo
+ 16:00 Albacete Balompie       - FC Elche
  18:00 Sporting Gijon          - Extremadura UD
  18:00 UD Las Palmas           - Rayo Vallecano
- 18:00 FC Malaga               - CD Lugo
- 18:00 Albacete Balompie       - FC Elche
- 18:00 UD Almeria              - SD Ponferradina
- 18:00 FC Cadiz                - CD Numancia
- 18:00 FC Girona               - CD Mirandes
+ 20:00 Racing Santander        - Real Oviedo
+ 21:00 FC Cadiz                - CD Numancia
+[Dom. 22.12.]
+ 12:00 UD Almeria              - SD Ponferradina
+ 16:00 SD Huesca               - Real Saragossa
  18:00 AD Alcorcon             - CF Fuenlabrada
- 18:00 SD Huesca               - Real Saragossa
+ 20:00 FC Girona               - CD Mirandes
 
 
 Jornada 22
-[Dom. 5.1.]
- 18:00 Real Oviedo             - FC Malaga
- 18:00 Real Saragossa          - Sporting Gijon
+[Vie. 3.1.]
+ 19:00 Extremadura UD          - AD Alcorcon
+ 21:00 Real Saragossa          - Sporting Gijon
+[Sáb. 4.1.]
+ 13:00 CF Fuenlabrada          - UD Las Palmas
+ 16:00 SD Ponferradina         - FC Cadiz
  18:00 CD Teneriffa            - Albacete Balompie
- 18:00 Rayo Vallecano          - FC Girona
- 18:00 CD Numancia             - Deportivo La Coruna
- 18:00 FC Elche                - SD Huesca
- 18:00 SD Ponferradina         - FC Cadiz
- 18:00 CD Mirandes             - Racing Santander
  18:00 CD Lugo                 - UD Almeria
- 18:00 CF Fuenlabrada          - UD Las Palmas
- 18:00 Extremadura UD          - AD Alcorcon
+ 20:00 FC Elche                - SD Huesca
+ 20:00 CD Mirandes             - Racing Santander
+[Dom. 5.1.]
+ 12:00 CD Numancia             - Deportivo La Coruna
+ 16:00 Rayo Vallecano          - FC Girona
+ 21:00 Real Oviedo             - FC Malaga
 
 
 Jornada 23

@@ -160,7 +160,7 @@ Jornada 10
  18:30 FC Sevilla              2-0 FC Getafe
  21:00 CA Osasuna              3-1 FC Valencia
 [Mié. 18.12.]
- 21:00 FC Barcelona            - Real Madrid
+ 20:00 FC Barcelona            - Real Madrid
 
 
 Jornada 11
@@ -198,16 +198,16 @@ Jornada 13
 [Vie. 8.11.]
  21:00 Real Sociedad San Sebastian 1-1 CD Leganes
 [Sáb. 9.11.]
- 13:00 Deportivo Alaves        - Real Valladolid
- 16:00 FC Valencia             - FC Granada
- 18:30 SD Eibar                - Real Madrid
- 21:00 FC Barcelona            - Celta Vigo
+ 13:00 Deportivo Alaves        3-0 Real Valladolid
+ 16:00 FC Valencia             2-0 FC Granada
+ 18:30 SD Eibar                0-4 Real Madrid
+ 21:00 FC Barcelona            4-1 Celta Vigo
 [Dom. 10.11.]
- 12:00 RCD Mallorca            - FC Villarreal
- 14:00 Athletic Bilbao         - UD Levante
- 16:00 Atletico Madrid         - Espanyol Barcelona
- 18:30 FC Getafe               - CA Osasuna
- 21:00 Real Betis Sevilla      - FC Sevilla
+ 12:00 RCD Mallorca            3-1 FC Villarreal
+ 14:00 Athletic Bilbao         2-1 UD Levante
+ 16:00 Atletico Madrid         3-1 Espanyol Barcelona
+ 18:30 FC Getafe               0-0 CA Osasuna
+ 21:00 Real Betis Sevilla      1-2 FC Sevilla
 
 
 Jornada 14
@@ -259,45 +259,51 @@ Jornada 16
 
 
 Jornada 17
-[Dom. 15.12.]
- 18:30 Celta Vigo              - RCD Mallorca
+[Vie. 13.12.]
+ 21:00 Deportivo Alaves        - CD Leganes
+[Sáb. 14.12.]
+ 13:00 FC Granada              - UD Levante
+ 16:00 Real Sociedad San Sebastian - FC Barcelona
  18:30 Athletic Bilbao         - SD Eibar
- 18:30 Espanyol Barcelona      - Real Betis Sevilla
- 18:30 Atletico Madrid         - CA Osasuna
- 18:30 Real Sociedad San Sebastian - FC Barcelona
- 18:30 FC Valencia             - Real Madrid
- 18:30 Deportivo Alaves        - CD Leganes
+ 21:00 Atletico Madrid         - CA Osasuna
+[Dom. 15.12.]
+ 12:00 FC Getafe               - Real Valladolid
+ 14:00 Celta Vigo              - RCD Mallorca
+ 16:00 Espanyol Barcelona      - Real Betis Sevilla
  18:30 FC Sevilla              - FC Villarreal
- 18:30 FC Getafe               - Real Valladolid
- 18:30 FC Granada              - UD Levante
+ 21:00 FC Valencia             - Real Madrid
 
 
 Jornada 18
-[Dom. 22.12.]
- 18:30 Real Valladolid         - FC Valencia
- 18:30 Real Betis Sevilla      - Atletico Madrid
- 18:30 Real Madrid             - Athletic Bilbao
- 18:30 FC Barcelona            - Deportivo Alaves
- 18:30 RCD Mallorca            - FC Sevilla
+[Vie. 20.12.]
+ 21:00 SD Eibar                - FC Granada
+[Sáb. 21.12.]
+ 13:00 RCD Mallorca            - FC Sevilla
+ 16:00 FC Barcelona            - Deportivo Alaves
  18:30 FC Villarreal           - FC Getafe
- 18:30 CD Leganes              - Espanyol Barcelona
- 18:30 CA Osasuna              - Real Sociedad San Sebastian
- 18:30 SD Eibar                - FC Granada
+ 21:00 Real Valladolid         - FC Valencia
+[Dom. 22.12.]
+ 12:00 CD Leganes              - Espanyol Barcelona
+ 14:00 CA Osasuna              - Real Sociedad San Sebastian
+ 16:00 Real Betis Sevilla      - Atletico Madrid
  18:30 UD Levante              - Celta Vigo
+ 21:00 Real Madrid             - Athletic Bilbao
 
 
 Jornada 19
-[Dom. 5.1.]
- 18:30 Celta Vigo              - CA Osasuna
- 18:30 Espanyol Barcelona      - FC Barcelona
- 18:30 Real Valladolid         - CD Leganes
+[Vie. 3.1.]
+ 19:00 Real Valladolid         - CD Leganes
+ 21:00 FC Sevilla              - Athletic Bilbao
+[Sáb. 4.1.]
+ 13:00 FC Valencia             - SD Eibar
+ 16:00 FC Getafe               - Real Madrid
  18:30 Atletico Madrid         - UD Levante
- 18:30 Real Sociedad San Sebastian - FC Villarreal
- 18:30 FC Valencia             - SD Eibar
- 18:30 Deportivo Alaves        - Real Betis Sevilla
- 18:30 FC Sevilla              - Athletic Bilbao
- 18:30 FC Getafe               - Real Madrid
- 18:30 FC Granada              - RCD Mallorca
+ 21:00 Espanyol Barcelona      - FC Barcelona
+[Dom. 5.1.]
+ 12:00 FC Granada              - RCD Mallorca
+ 14:00 Real Sociedad San Sebastian - FC Villarreal
+ 16:00 Deportivo Alaves        - Real Betis Sevilla
+ 21:00 Celta Vigo              - CA Osasuna
 
 
 Jornada 20
