@@ -265,12 +265,12 @@ Jornada 16
  18:30 FC Elche                1-1 UD Almeria
  21:00 Real Saragossa          0-1 Albacete Balompie
 [Dom. 17.11.]
- 12:00 SD Ponferradina         - FC Girona
- 14:00 AD Alcorcon             - FC Malaga
- 16:00 Real Oviedo             - Sporting Gijon
- 18:30 CD Mirandes             - UD Las Palmas
- 18:30 CD Lugo                 - Racing Santander
- 21:00 CD Teneriffa            - FC Cadiz
+ 12:00 SD Ponferradina         1-1 FC Girona
+ 14:00 AD Alcorcon             1-0 FC Malaga
+ 16:00 Real Oviedo             0-0 Sporting Gijon
+ 18:30 CD Mirandes             2-1 UD Las Palmas
+ 18:30 CD Lugo                 1-1 Racing Santander
+ 21:00 CD Teneriffa            1-1 FC Cadiz
 
 
 Jornada 17
