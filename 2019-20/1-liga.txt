@@ -219,11 +219,11 @@ Jornada 14
  18:30 FC Granada              1-1 Atletico Madrid
  21:00 Real Madrid             3-1 Real Sociedad San Sebastian
 [Dom. 24.11.]
- 12:00 Espanyol Barcelona      - FC Getafe
- 14:00 CA Osasuna              - Athletic Bilbao
- 16:00 SD Eibar                - Deportivo Alaves
- 18:30 FC Villarreal           - Celta Vigo
- 21:00 Real Valladolid         - FC Sevilla
+ 12:00 Espanyol Barcelona      1-1 FC Getafe
+ 14:00 CA Osasuna              1-2 Athletic Bilbao
+ 16:00 SD Eibar                0-2 Deportivo Alaves
+ 18:30 FC Villarreal           1-3 Celta Vigo
+ 21:00 Real Valladolid         0-1 FC Sevilla
 
 
 Jornada 15
