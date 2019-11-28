@@ -307,17 +307,19 @@ Jornada 19
 
 
 Jornada 20
-[Dom. 19.1.]
- 18:30 Athletic Bilbao         - Celta Vigo
- 18:30 Real Betis Sevilla      - Real Sociedad San Sebastian
- 18:30 Real Madrid             - FC Sevilla
- 18:30 FC Barcelona            - FC Granada
- 18:30 RCD Mallorca            - FC Valencia
- 18:30 FC Villarreal           - Espanyol Barcelona
- 18:30 CD Leganes              - FC Getafe
+[Vie. 17.1.]
+ 21:00 CD Leganes              - FC Getafe
+[Sáb. 18.1.]
+ 13:00 UD Levante              - Deportivo Alaves
+ 16:00 Real Madrid             - FC Sevilla
  18:30 CA Osasuna              - Real Valladolid
- 18:30 SD Eibar                - Atletico Madrid
- 18:30 UD Levante              - Deportivo Alaves
+ 21:00 SD Eibar                - Atletico Madrid
+[Dom. 19.1.]
+ 12:00 RCD Mallorca            - FC Valencia
+ 14:00 Real Betis Sevilla      - Real Sociedad San Sebastian
+ 16:00 FC Villarreal           - Espanyol Barcelona
+ 18:30 Athletic Bilbao         - Celta Vigo
+ 21:00 FC Barcelona            - FC Granada
 
 
 Jornada 21
