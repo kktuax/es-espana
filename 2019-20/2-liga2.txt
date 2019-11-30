@@ -292,7 +292,7 @@ Jornada 17
 
 Jornada 18
 [Vie. 29.11.]
- 21:00 CD Numancia             - FC Malaga
+ 21:00 CD Numancia             0-0 FC Malaga
 [Sáb. 30.11.]
  16:00 CD Mirandes             - Sporting Gijon
  16:00 AD Alcorcon             - SD Huesca
@@ -376,33 +376,37 @@ Jornada 22
 
 
 Jornada 23
-[Mié. 15.1.]
- 20:00 Deportivo La Coruna     - Racing Santander
- 20:00 Sporting Gijon          - FC Elche
- 20:00 Rayo Vallecano          - CD Lugo
- 20:00 UD Las Palmas           - Real Saragossa
+[Mar. 14.1.]
+ 19:00 Sporting Gijon          - FC Elche
+ 19:00 Albacete Balompie       - CF Fuenlabrada
  20:00 FC Malaga               - SD Ponferradina
- 20:00 Albacete Balompie       - CF Fuenlabrada
- 20:00 UD Almeria              - Real Oviedo
- 20:00 FC Cadiz                - CD Mirandes
+ 21:30 UD Las Palmas           - Real Saragossa
+[Mié. 15.1.]
+ 19:00 AD Alcorcon             - CD Numancia
+ 19:00 SD Huesca               - CD Teneriffa
+ 20:00 Rayo Vallecano          - CD Lugo
+ 21:00 FC Cadiz                - CD Mirandes
+[Jue. 16.1.]
+ 19:00 Deportivo La Coruna     - Racing Santander
  20:00 FC Girona               - Extremadura UD
- 20:00 AD Alcorcon             - CD Numancia
- 20:00 SD Huesca               - CD Teneriffa
+ 21:00 UD Almeria              - Real Oviedo
 
 
 Jornada 24
+[Vie. 17.1.]
+ 21:00 CF Fuenlabrada          - FC Malaga
+[Sáb. 18.1.]
+ 16:00 CD Numancia             - Sporting Gijon
+ 18:15 SD Ponferradina         - Rayo Vallecano
+ 18:15 CD Lugo                 - Albacete Balompie
+ 21:00 CD Mirandes             - Real Saragossa
 [Dom. 19.1.]
- 18:00 Real Oviedo             - SD Huesca
- 18:00 Racing Santander        - UD Las Palmas
- 18:00 CD Teneriffa            - FC Girona
- 18:00 Deportivo La Coruna     - FC Cadiz
- 18:00 CD Numancia             - Sporting Gijon
- 18:00 FC Elche                - AD Alcorcon
- 18:00 SD Ponferradina         - Rayo Vallecano
- 18:00 CD Mirandes             - Real Saragossa
- 18:00 CD Lugo                 - Albacete Balompie
- 18:00 CF Fuenlabrada          - FC Malaga
- 18:00 Extremadura UD          - UD Almeria
+ 12:00 FC Elche                - AD Alcorcon
+ 16:00 Deportivo La Coruna     - FC Cadiz
+ 18:15 Real Oviedo             - SD Huesca
+ 18:15 Racing Santander        - UD Las Palmas
+ 20:30 CD Teneriffa            - FC Girona
+ 20:30 Extremadura UD          - UD Almeria
 
 
 Jornada 25
