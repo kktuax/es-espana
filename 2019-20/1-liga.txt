@@ -235,11 +235,11 @@ Jornada 15
  18:30 RCD Mallorca            1-2 Real Betis Sevilla
  21:00 FC Valencia             2-1 FC Villarreal
 [Dom. 1.12.]
- 12:00 FC Sevilla              - CD Leganes
- 14:00 Athletic Bilbao         - FC Granada
- 16:00 Espanyol Barcelona      - CA Osasuna
- 18:30 FC Getafe               - UD Levante
- 21:00 Atletico Madrid         - FC Barcelona
+ 12:00 FC Sevilla              1-0 CD Leganes
+ 14:00 Athletic Bilbao         2-0 FC Granada
+ 16:00 Espanyol Barcelona      2-4 CA Osasuna
+ 18:30 FC Getafe               4-0 UD Levante
+ 21:00 Atletico Madrid         0-1 FC Barcelona
 
 
 Jornada 16

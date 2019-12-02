@@ -300,11 +300,11 @@ Jornada 18
  18:00 CD Teneriffa            1-3 UD Almeria
  21:00 Real Saragossa          3-3 FC Girona
 [Dom. 1.12.]
- 12:00 CF Fuenlabrada          - FC Cadiz
- 16:00 Real Oviedo             - Rayo Vallecano
- 18:00 FC Elche                - Racing Santander
- 18:00 CD Lugo                 - Deportivo La Coruna
- 20:00 Extremadura UD          - UD Las Palmas
+ 12:00 CF Fuenlabrada          1-0 FC Cadiz
+ 16:00 Real Oviedo             2-1 Rayo Vallecano
+ 18:00 FC Elche                2-0 Racing Santander
+ 18:00 CD Lugo                 0-0 Deportivo La Coruna
+ 20:00 Extremadura UD          0-1 UD Las Palmas
 
 
 Jornada 19
