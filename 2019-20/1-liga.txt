@@ -246,10 +246,10 @@ Jornada 16
 [Vie. 6.12.]
  21:00 FC Villarreal           0-0 Atletico Madrid
 [Sáb. 7.12.]
- 13:00 Real Madrid             - Espanyol Barcelona
- 16:00 FC Granada              - Deportivo Alaves
- 18:30 UD Levante              - FC Valencia
- 21:00 FC Barcelona            - RCD Mallorca
+ 13:00 Real Madrid             2-0 Espanyol Barcelona
+ 16:00 FC Granada              3-0 Deportivo Alaves
+ 18:30 UD Levante              2-4 FC Valencia
+ 21:00 FC Barcelona            5-2 RCD Mallorca
 [Dom. 8.12.]
  12:00 SD Eibar                - FC Getafe
  14:00 Real Betis Sevilla      - Athletic Bilbao
