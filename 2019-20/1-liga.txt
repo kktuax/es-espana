@@ -323,17 +323,19 @@ Jornada 20
 
 
 Jornada 21
-[Dom. 26.1.]
- 18:30 Celta Vigo              - SD Eibar
- 18:30 Espanyol Barcelona      - Athletic Bilbao
- 18:30 Real Valladolid         - Real Madrid
- 18:30 Atletico Madrid         - CD Leganes
- 18:30 Real Sociedad San Sebastian - RCD Mallorca
- 18:30 FC Valencia             - FC Barcelona
+[Vie. 24.1.]
+ 21:00 CA Osasuna              - UD Levante
+[Sáb. 25.1.]
+ 13:00 Espanyol Barcelona      - Athletic Bilbao
+ 16:00 FC Valencia             - FC Barcelona
  18:30 Deportivo Alaves        - FC Villarreal
- 18:30 FC Sevilla              - FC Granada
- 18:30 FC Getafe               - Real Betis Sevilla
- 18:30 CA Osasuna              - UD Levante
+ 21:00 FC Sevilla              - FC Granada
+[Dom. 26.1.]
+ 12:00 Atletico Madrid         - CD Leganes
+ 14:00 Celta Vigo              - SD Eibar
+ 16:00 FC Getafe               - Real Betis Sevilla
+ 18:30 Real Sociedad San Sebastian - RCD Mallorca
+ 21:00 Real Valladolid         - Real Madrid
 
 
 Jornada 22
