@@ -267,11 +267,11 @@ Jornada 17
  18:30 Athletic Bilbao         0-0 SD Eibar
  21:00 Atletico Madrid         2-0 CA Osasuna
 [Dom. 15.12.]
- 12:00 FC Getafe               - Real Valladolid
- 14:00 Celta Vigo              - RCD Mallorca
- 16:00 Espanyol Barcelona      - Real Betis Sevilla
- 18:30 FC Sevilla              - FC Villarreal
- 21:00 FC Valencia             - Real Madrid
+ 12:00 FC Getafe               2-0 Real Valladolid
+ 14:00 Celta Vigo              2-2 RCD Mallorca
+ 16:00 Espanyol Barcelona      2-2 Real Betis Sevilla
+ 18:30 FC Sevilla              1-2 FC Villarreal
+ 21:00 FC Valencia             1-1 Real Madrid
 
 
 Jornada 18
