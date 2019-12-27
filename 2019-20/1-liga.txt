@@ -160,7 +160,7 @@ Jornada 10
  18:30 FC Sevilla              2-0 FC Getafe
  21:00 CA Osasuna              3-1 FC Valencia
 [Mié. 18.12.]
- 20:00 FC Barcelona            - Real Madrid
+ 20:00 FC Barcelona            0-0 Real Madrid
 
 
 Jornada 11
@@ -276,18 +276,18 @@ Jornada 17
 
 Jornada 18
 [Vie. 20.12.]
- 21:00 SD Eibar                - FC Granada
+ 21:00 SD Eibar                3-0 FC Granada
 [Sáb. 21.12.]
- 13:00 RCD Mallorca            - FC Sevilla
- 16:00 FC Barcelona            - Deportivo Alaves
- 18:30 FC Villarreal           - FC Getafe
- 21:00 Real Valladolid         - FC Valencia
+ 13:00 RCD Mallorca            0-2 FC Sevilla
+ 16:00 FC Barcelona            4-1 Deportivo Alaves
+ 18:30 FC Villarreal           1-0 FC Getafe
+ 21:00 Real Valladolid         1-1 FC Valencia
 [Dom. 22.12.]
- 12:00 CD Leganes              - Espanyol Barcelona
- 14:00 CA Osasuna              - Real Sociedad San Sebastian
- 16:00 Real Betis Sevilla      - Atletico Madrid
- 18:30 UD Levante              - Celta Vigo
- 21:00 Real Madrid             - Athletic Bilbao
+ 12:00 CD Leganes              2-0 Espanyol Barcelona
+ 14:00 CA Osasuna              3-4 Real Sociedad San Sebastian
+ 16:00 Real Betis Sevilla      1-2 Atletico Madrid
+ 18:30 UD Levante              3-1 Celta Vigo
+ 21:00 Real Madrid             0-0 Athletic Bilbao
 
 
 Jornada 19
@@ -339,17 +339,19 @@ Jornada 21
 
 
 Jornada 22
-[Dom. 2.2.]
- 18:30 Athletic Bilbao         - FC Getafe
- 18:30 Real Madrid             - Atletico Madrid
- 18:30 FC Barcelona            - UD Levante
+[Vie. 31.1.]
+ 21:00 FC Villarreal           - CA Osasuna
+[Sáb. 1.2.]
+ 13:00 FC Granada              - Espanyol Barcelona
+ 16:00 Real Madrid             - Atletico Madrid
  18:30 RCD Mallorca            - Real Valladolid
- 18:30 FC Valencia             - Celta Vigo
- 18:30 FC Villarreal           - CA Osasuna
+ 21:00 FC Valencia             - Celta Vigo
+[Dom. 2.2.]
+ 12:00 CD Leganes              - Real Sociedad San Sebastian
+ 14:00 SD Eibar                - Real Betis Sevilla
+ 16:00 Athletic Bilbao         - FC Getafe
  18:30 FC Sevilla              - Deportivo Alaves
- 18:30 CD Leganes              - Real Sociedad San Sebastian
- 18:30 SD Eibar                - Real Betis Sevilla
- 18:30 FC Granada              - Espanyol Barcelona
+ 21:00 FC Barcelona            - UD Levante
 
 
 Jornada 23

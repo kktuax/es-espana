@@ -343,19 +343,19 @@ Jornada 20
 
 Jornada 21
 [Vie. 20.12.]
- 21:00 Deportivo La Coruna     - CD Teneriffa
+ 21:00 Deportivo La Coruna     2-1 CD Teneriffa
 [Sáb. 21.12.]
- 16:00 FC Malaga               - CD Lugo
- 16:00 Albacete Balompie       - FC Elche
- 18:00 Sporting Gijon          - Extremadura UD
- 18:00 UD Las Palmas           - Rayo Vallecano
- 20:00 Racing Santander        - Real Oviedo
- 21:00 FC Cadiz                - CD Numancia
+ 16:00 FC Malaga               1-1 CD Lugo
+ 16:00 Albacete Balompie       0-1 FC Elche
+ 18:00 Sporting Gijon          0-1 Extremadura UD
+ 18:00 UD Las Palmas           1-1 Rayo Vallecano
+ 20:00 Racing Santander        1-1 Real Oviedo
+ 21:00 FC Cadiz                2-4 CD Numancia
 [Dom. 22.12.]
- 12:00 UD Almeria              - SD Ponferradina
- 16:00 SD Huesca               - Real Saragossa
- 18:00 AD Alcorcon             - CF Fuenlabrada
- 20:00 FC Girona               - CD Mirandes
+ 12:00 UD Almeria              2-3 SD Ponferradina
+ 16:00 SD Huesca               2-1 Real Saragossa
+ 18:00 AD Alcorcon             1-1 CF Fuenlabrada
+ 20:00 FC Girona               0-3 CD Mirandes
 
 
 Jornada 22
@@ -427,18 +427,20 @@ Jornada 25
 
 
 Jornada 26
+[Vie. 31.1.]
+ 21:00 CD Teneriffa            - Sporting Gijon
+[Sáb. 1.2.]
+ 16:00 Extremadura UD          - CD Lugo
+ 18:15 Deportivo La Coruna     - UD Las Palmas
+ 18:15 SD Ponferradina         - SD Huesca
+ 21:00 FC Elche                - FC Malaga
 [Dom. 2.2.]
- 18:00 Real Oviedo             - Albacete Balompie
- 18:00 Racing Santander        - AD Alcorcon
- 18:00 CD Teneriffa            - Sporting Gijon
- 18:00 Deportivo La Coruna     - UD Las Palmas
- 18:00 CD Numancia             - UD Almeria
- 18:00 FC Elche                - FC Malaga
- 18:00 SD Ponferradina         - SD Huesca
- 18:00 FC Cadiz                - Real Saragossa
- 18:00 CD Mirandes             - Rayo Vallecano
- 18:00 CF Fuenlabrada          - FC Girona
- 18:00 Extremadura UD          - CD Lugo
+ 12:00 CF Fuenlabrada          - FC Girona
+ 16:00 FC Cadiz                - Real Saragossa
+ 18:15 CD Numancia             - UD Almeria
+ 18:15 CD Mirandes             - Rayo Vallecano
+ 20:30 Real Oviedo             - Albacete Balompie
+ 20:30 Racing Santander        - AD Alcorcon
 
 
 Jornada 27
