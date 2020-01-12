@@ -292,18 +292,18 @@ Jornada 18
 
 Jornada 19
 [Vie.. 3.1.]
- 19:00 Real Valladolid         - CD Leganes
- 21:00 FC Sevilla              - Athletic Bilbao
+ 19:00 Real Valladolid         2-2 CD Leganes
+ 21:00 FC Sevilla              1-1 Athletic Bilbao
 [Sáb.. 4.1.]
- 13:00 FC Valencia             - SD Eibar
- 16:00 FC Getafe               - Real Madrid
- 18:30 Atletico Madrid         - UD Levante
- 21:00 Espanyol Barcelona      - FC Barcelona
+ 13:00 FC Valencia             1-0 SD Eibar
+ 16:00 FC Getafe               0-3 Real Madrid
+ 18:30 Atletico Madrid         2-1 UD Levante
+ 21:00 Espanyol Barcelona      2-2 FC Barcelona
 [Dom.. 5.1.]
- 12:00 FC Granada              - RCD Mallorca
- 14:00 Real Sociedad San Sebastian - FC Villarreal
- 16:00 Deportivo Alaves        - Real Betis Sevilla
- 21:00 Celta Vigo              - CA Osasuna
+ 12:00 FC Granada              1-0 RCD Mallorca
+ 14:00 Real Sociedad San Sebastian 1-2 FC Villarreal
+ 16:00 Deportivo Alaves        1-1 Real Betis Sevilla
+ 21:00 Celta Vigo              1-1 CA Osasuna
 
 
 Jornada 20
@@ -355,17 +355,19 @@ Jornada 22
 
 
 Jornada 23
-[Dom.. 9.2.]
- 18:30 Celta Vigo              - FC Sevilla
- 18:30 Espanyol Barcelona      - RCD Mallorca
- 18:30 Real Valladolid         - FC Villarreal
- 18:30 Real Betis Sevilla      - FC Barcelona
- 18:30 Atletico Madrid         - FC Granada
- 18:30 Real Sociedad San Sebastian - Athletic Bilbao
+[Vie.. 7.2.]
+ 21:00 Real Valladolid         - FC Villarreal
+[Sáb.. 8.2.]
+ 13:00 UD Levante              - CD Leganes
+ 16:00 FC Getafe               - FC Valencia
  18:30 Deportivo Alaves        - SD Eibar
- 18:30 FC Getafe               - FC Valencia
- 18:30 CA Osasuna              - Real Madrid
- 18:30 UD Levante              - CD Leganes
+ 21:00 Atletico Madrid         - FC Granada
+[Dom.. 9.2.]
+ 12:00 Espanyol Barcelona      - RCD Mallorca
+ 14:00 Real Sociedad San Sebastian - Athletic Bilbao
+ 16:00 CA Osasuna              - Real Madrid
+ 18:30 Celta Vigo              - FC Sevilla
+ 21:00 Real Betis Sevilla      - FC Barcelona
 
 
 Jornada 24
