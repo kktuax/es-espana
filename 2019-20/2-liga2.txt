@@ -377,10 +377,10 @@ Jornada 22
 
 Jornada 23
 [Mar.. 14.1.]
- 19:00 Sporting Gijon          - FC Elche
- 19:00 Albacete Balompie       - CF Fuenlabrada
- 20:00 FC Malaga               - SD Ponferradina
- 21:30 UD Las Palmas           - Real Saragossa
+ 19:00 Sporting Gijon          1-0 FC Elche
+ 19:00 Albacete Balompie       1-1 CF Fuenlabrada
+ 20:00 FC Malaga               1-0 SD Ponferradina
+ 21:30 UD Las Palmas           0-1 Real Saragossa
 [Mié.. 15.1.]
  19:00 AD Alcorcon             - CD Numancia
  19:00 SD Huesca               - CD Teneriffa
@@ -411,12 +411,12 @@ Jornada 24
 
 Jornada 25
 [Vie.. 24.1.]
- 21:00 Real Saragossa          - CD Numancia
+ 21:00 FC Cadiz                - Racing Santander
 [Sáb.. 25.1.]
  16:00 Sporting Gijon          - CF Fuenlabrada
  16:00 SD Huesca               - CD Lugo
  18:15 UD Las Palmas           - CD Teneriffa
- 21:00 FC Cadiz                - Racing Santander
+ 21:00 Real Saragossa          - CD Numancia
 [Dom.. 26.1.]
  12:00 FC Malaga               - CD Mirandes
  16:00 Albacete Balompie       - Deportivo La Coruna
