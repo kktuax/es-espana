@@ -394,7 +394,7 @@ Jornada 23
 
 Jornada 24
 [Vie.. 17.1.]
- 21:00 CF Fuenlabrada          - FC Malaga
+ 21:00 CF Fuenlabrada          0-0 FC Malaga
 [Sáb.. 18.1.]
  16:00 CD Numancia             - Sporting Gijon
  18:15 SD Ponferradina         - Rayo Vallecano
@@ -444,18 +444,20 @@ Jornada 26
 
 
 Jornada 27
+[Vie.. 7.2.]
+ 21:00 UD Almeria              - Racing Santander
+[Sáb.. 8.2.]
+ 16:00 FC Girona               - SD Huesca
+ 16:00 Extremadura UD          - CD Teneriffa
+ 18:15 UD Las Palmas           - FC Cadiz
+ 21:00 Real Saragossa          - CF Fuenlabrada
 [Dom.. 9.2.]
- 18:00 Real Saragossa          - CF Fuenlabrada
- 18:00 Sporting Gijon          - CD Mirandes
- 18:00 Rayo Vallecano          - Real Oviedo
- 18:00 UD Las Palmas           - FC Cadiz
- 18:00 FC Malaga               - CD Numancia
- 18:00 Albacete Balompie       - SD Ponferradina
- 18:00 UD Almeria              - Racing Santander
- 18:00 FC Girona               - SD Huesca
- 18:00 CD Lugo                 - FC Elche
- 18:00 AD Alcorcon             - Deportivo La Coruna
- 18:00 Extremadura UD          - CD Teneriffa
+ 12:00 Albacete Balompie       - SD Ponferradina
+ 12:00 AD Alcorcon             - Deportivo La Coruna
+ 16:00 Sporting Gijon          - CD Mirandes
+ 18:15 Rayo Vallecano          - Real Oviedo
+ 18:15 CD Lugo                 - FC Elche
+ 20:30 FC Malaga               - CD Numancia
 
 
 Jornada 28
