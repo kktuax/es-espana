@@ -310,10 +310,10 @@ Jornada 20
 [Vie.. 17.1.]
  21:00 CD Leganes              0-3 FC Getafe
 [Sáb.. 18.1.]
- 13:00 UD Levante              - Deportivo Alaves
- 16:00 Real Madrid             - FC Sevilla
- 18:30 CA Osasuna              - Real Valladolid
- 21:00 SD Eibar                - Atletico Madrid
+ 13:00 UD Levante              0-1 Deportivo Alaves
+ 16:00 Real Madrid             2-1 FC Sevilla
+ 18:30 CA Osasuna              0-0 Real Valladolid
+ 21:00 SD Eibar                2-0 Atletico Madrid
 [Dom.. 19.1.]
  12:00 RCD Mallorca            - FC Valencia
  14:00 Real Betis Sevilla      - Real Sociedad San Sebastian
