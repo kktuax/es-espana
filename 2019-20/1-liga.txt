@@ -371,17 +371,19 @@ Jornada 23
 
 
 Jornada 24
-[Dom.. 16.2.]
- 18:30 Athletic Bilbao         - CA Osasuna
- 18:30 Real Madrid             - Celta Vigo
- 18:30 FC Barcelona            - FC Getafe
- 18:30 RCD Mallorca            - Deportivo Alaves
- 18:30 FC Valencia             - Atletico Madrid
+[Vie.. 14.2.]
+ 21:00 FC Granada              - Real Valladolid
+[Sáb.. 15.2.]
+ 13:00 RCD Mallorca            - Deportivo Alaves
+ 16:00 FC Barcelona            - FC Getafe
  18:30 FC Villarreal           - UD Levante
- 18:30 FC Sevilla              - Espanyol Barcelona
- 18:30 CD Leganes              - Real Betis Sevilla
- 18:30 SD Eibar                - Real Sociedad San Sebastian
- 18:30 FC Granada              - Real Valladolid
+ 21:00 FC Valencia             - Atletico Madrid
+[Dom.. 16.2.]
+ 12:00 FC Sevilla              - Espanyol Barcelona
+ 14:00 CD Leganes              - Real Betis Sevilla
+ 16:00 SD Eibar                - Real Sociedad San Sebastian
+ 18:30 Athletic Bilbao         - CA Osasuna
+ 21:00 Real Madrid             - Celta Vigo
 
 
 Jornada 25
