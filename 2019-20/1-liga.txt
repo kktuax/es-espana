@@ -404,7 +404,6 @@ Jornada 26
 [Dom.. 1.3.]
  18:30 Athletic Bilbao         - FC Villarreal
  18:30 Espanyol Barcelona      - Atletico Madrid
- 18:30 Real Madrid             - FC Barcelona
  18:30 Real Sociedad San Sebastian - Real Valladolid
  18:30 RCD Mallorca            - FC Getafe
  18:30 FC Valencia             - Real Betis Sevilla
@@ -412,6 +411,7 @@ Jornada 26
  18:30 CD Leganes              - Deportivo Alaves
  18:30 SD Eibar                - UD Levante
  18:30 FC Granada              - Celta Vigo
+ 21:00 Real Madrid             - FC Barcelona
 
 
 Jornada 27
