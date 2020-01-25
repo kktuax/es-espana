@@ -324,7 +324,7 @@ Jornada 20
 
 Jornada 21
 [Vie.. 24.1.]
- 21:00 CA Osasuna              - UD Levante
+ 21:00 CA Osasuna              2-0 UD Levante
 [Sáb.. 25.1.]
  13:00 Espanyol Barcelona      - Athletic Bilbao
  16:00 FC Valencia             - FC Barcelona
@@ -339,8 +339,6 @@ Jornada 21
 
 
 Jornada 22
-[Vie.. 31.1.]
- 21:00 FC Villarreal           - CA Osasuna
 [Sáb.. 1.2.]
  13:00 FC Granada              - Espanyol Barcelona
  16:00 Real Madrid             - Atletico Madrid
@@ -350,6 +348,7 @@ Jornada 22
  12:00 CD Leganes              - Real Sociedad San Sebastian
  14:00 SD Eibar                - Real Betis Sevilla
  16:00 Athletic Bilbao         - FC Getafe
+ 18:30 FC Villarreal           - CA Osasuna
  18:30 FC Sevilla              - Deportivo Alaves
  21:00 FC Barcelona            - UD Levante
 

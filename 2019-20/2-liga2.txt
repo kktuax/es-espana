@@ -399,7 +399,6 @@ Jornada 24
  16:00 CD Numancia             2-0 Sporting Gijon
  18:15 SD Ponferradina         1-1 Rayo Vallecano
  18:15 CD Lugo                 1-0 Albacete Balompie
- 21:00 CD Mirandes             - Real Saragossa
 [Dom.. 19.1.]
  12:00 FC Elche                1-1 AD Alcorcon
  16:00 Deportivo La Coruna     1-0 FC Cadiz
@@ -407,11 +406,13 @@ Jornada 24
  18:15 Racing Santander        1-1 UD Las Palmas
  20:30 CD Teneriffa            1-0 FC Girona
  20:30 Extremadura UD          1-2 UD Almeria
+[Mié.. 19.2.]
+ 21:00 CD Mirandes             - Real Saragossa
 
 
 Jornada 25
 [Vie.. 24.1.]
- 21:00 FC Cadiz                - Racing Santander
+ 21:00 FC Cadiz                1-0 Racing Santander
 [Sáb.. 25.1.]
  16:00 Sporting Gijon          - CF Fuenlabrada
  16:00 SD Huesca               - CD Lugo
