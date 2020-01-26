@@ -414,10 +414,10 @@ Jornada 25
 [Vie.. 24.1.]
  21:00 FC Cadiz                1-0 Racing Santander
 [Sáb.. 25.1.]
- 16:00 Sporting Gijon          - CF Fuenlabrada
- 16:00 SD Huesca               - CD Lugo
- 18:15 UD Las Palmas           - CD Teneriffa
- 21:00 Real Saragossa          - CD Numancia
+ 16:00 Sporting Gijon          1-0 CF Fuenlabrada
+ 16:00 SD Huesca               2-1 CD Lugo
+ 18:15 UD Las Palmas           0-0 CD Teneriffa
+ 21:00 Real Saragossa          1-0 CD Numancia
 [Dom.. 26.1.]
  12:00 FC Malaga               - CD Mirandes
  16:00 Albacete Balompie       - Deportivo La Coruna

@@ -326,10 +326,10 @@ Jornada 21
 [Vie.. 24.1.]
  21:00 CA Osasuna              2-0 UD Levante
 [Sáb.. 25.1.]
- 13:00 Espanyol Barcelona      - Athletic Bilbao
- 16:00 FC Valencia             - FC Barcelona
- 18:30 Deportivo Alaves        - FC Villarreal
- 21:00 FC Sevilla              - FC Granada
+ 13:00 Espanyol Barcelona      1-1 Athletic Bilbao
+ 16:00 FC Valencia             2-0 FC Barcelona
+ 18:30 Deportivo Alaves        1-2 FC Villarreal
+ 21:00 FC Sevilla              2-0 FC Granada
 [Dom.. 26.1.]
  12:00 Atletico Madrid         - CD Leganes
  14:00 Celta Vigo              - SD Eibar
