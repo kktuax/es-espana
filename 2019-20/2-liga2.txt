@@ -431,10 +431,10 @@ Jornada 26
 [Vie.. 31.1.]
  21:00 CD Teneriffa            2-1 Sporting Gijon
 [Sáb.. 1.2.]
- 16:00 Extremadura UD          - CD Lugo
- 18:15 Deportivo La Coruna     - UD Las Palmas
- 18:15 SD Ponferradina         - SD Huesca
- 21:00 FC Elche                - FC Malaga
+ 16:00 Extremadura UD          1-0 CD Lugo
+ 18:15 Deportivo La Coruna     2-1 UD Las Palmas
+ 18:15 SD Ponferradina         3-1 SD Huesca
+ 21:00 FC Elche                2-0 FC Malaga
 [Dom.. 2.2.]
  12:00 CF Fuenlabrada          - FC Girona
  16:00 FC Cadiz                - Real Saragossa
