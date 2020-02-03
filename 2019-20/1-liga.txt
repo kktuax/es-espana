@@ -345,12 +345,12 @@ Jornada 22
  18:30 RCD Mallorca            0-1 Real Valladolid
  21:00 FC Valencia             1-0 Celta Vigo
 [Dom.. 2.2.]
- 12:00 CD Leganes              - Real Sociedad San Sebastian
- 14:00 SD Eibar                - Real Betis Sevilla
- 16:00 Athletic Bilbao         - FC Getafe
- 18:30 FC Villarreal           - CA Osasuna
- 18:30 FC Sevilla              - Deportivo Alaves
- 21:00 FC Barcelona            - UD Levante
+ 12:00 CD Leganes              2-1 Real Sociedad San Sebastian
+ 14:00 SD Eibar                1-1 Real Betis Sevilla
+ 16:00 Athletic Bilbao         0-2 FC Getafe
+ 18:30 FC Villarreal           3-1 CA Osasuna
+ 18:30 FC Sevilla              1-1 Deportivo Alaves
+ 21:00 FC Barcelona            2-1 UD Levante
 
 
 Jornada 23
