@@ -446,7 +446,7 @@ Jornada 26
 
 Jornada 27
 [Vie.. 7.2.]
- 21:00 UD Almeria              - Racing Santander
+ 21:00 UD Almeria              0-1 Racing Santander
 [Sáb.. 8.2.]
  16:00 FC Girona               - SD Huesca
  16:00 Extremadura UD          - CD Teneriffa
@@ -465,12 +465,12 @@ Jornada 28
 [Vie.. 14.2.]
  21:00 Deportivo La Coruna     - FC Girona
 [Sáb.. 15.2.]
- 16:00 CD Mirandes             - Albacete Balompie
  16:00 SD Huesca               - UD Almeria
  18:15 Real Oviedo             - AD Alcorcon
  18:15 CD Numancia             - UD Las Palmas
  21:00 FC Elche                - Real Saragossa
 [Dom.. 16.2.]
+ 12:00 CD Mirandes             - Albacete Balompie
  12:00 CF Fuenlabrada          - CD Lugo
  16:00 FC Cadiz                - FC Malaga
  18:15 Racing Santander        - Sporting Gijon
