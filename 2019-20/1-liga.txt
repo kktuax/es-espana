@@ -357,10 +357,10 @@ Jornada 23
 [Vie.. 7.2.]
  21:00 Deportivo Alaves        2-1 SD Eibar
 [Sáb.. 8.2.]
- 13:00 UD Levante              - CD Leganes
- 16:00 FC Getafe               - FC Valencia
- 18:30 Real Valladolid         - FC Villarreal
- 21:00 Atletico Madrid         - FC Granada
+ 13:00 UD Levante              2-0 CD Leganes
+ 16:00 FC Getafe               3-0 FC Valencia
+ 18:30 Real Valladolid         1-1 FC Villarreal
+ 21:00 Atletico Madrid         1-0 FC Granada
 [Dom.. 9.2.]
  12:00 Espanyol Barcelona      - RCD Mallorca
  14:00 Real Sociedad San Sebastian - Athletic Bilbao
