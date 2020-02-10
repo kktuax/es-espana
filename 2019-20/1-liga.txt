@@ -362,11 +362,11 @@ Jornada 23
  18:30 Real Valladolid         1-1 FC Villarreal
  21:00 Atletico Madrid         1-0 FC Granada
 [Dom.. 9.2.]
- 12:00 Espanyol Barcelona      - RCD Mallorca
- 14:00 Real Sociedad San Sebastian - Athletic Bilbao
- 16:00 CA Osasuna              - Real Madrid
- 18:30 Celta Vigo              - FC Sevilla
- 21:00 Real Betis Sevilla      - FC Barcelona
+ 12:00 Espanyol Barcelona      1-0 RCD Mallorca
+ 14:00 Real Sociedad San Sebastian 2-1 Athletic Bilbao
+ 16:00 CA Osasuna              1-4 Real Madrid
+ 18:30 Celta Vigo              2-1 FC Sevilla
+ 21:00 Real Betis Sevilla      2-3 FC Barcelona
 
 
 Jornada 24

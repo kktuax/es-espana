@@ -453,12 +453,12 @@ Jornada 27
  18:15 UD Las Palmas           1-2 FC Cadiz
  21:00 Real Saragossa          0-0 CF Fuenlabrada
 [Dom.. 9.2.]
- 12:00 Albacete Balompie       - SD Ponferradina
- 12:00 AD Alcorcon             - Deportivo La Coruna
- 16:00 Sporting Gijon          - CD Mirandes
- 18:15 Rayo Vallecano          - Real Oviedo
- 18:15 CD Lugo                 - FC Elche
- 20:30 FC Malaga               - CD Numancia
+ 12:00 Albacete Balompie       1-1 SD Ponferradina
+ 12:00 AD Alcorcon             0-1 Deportivo La Coruna
+ 16:00 Sporting Gijon          2-2 CD Mirandes
+ 18:15 Rayo Vallecano          1-1 Real Oviedo
+ 18:15 CD Lugo                 2-2 FC Elche
+ 20:30 FC Malaga               2-1 CD Numancia
 
 
 Jornada 28
