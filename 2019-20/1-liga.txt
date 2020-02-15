@@ -371,7 +371,7 @@ Jornada 23
 
 Jornada 24
 [Vie.. 14.2.]
- 21:00 FC Valencia             - Atletico Madrid
+ 21:00 FC Valencia             2-2 Atletico Madrid
 [Sáb.. 15.2.]
  13:00 RCD Mallorca            - Deportivo Alaves
  16:00 FC Barcelona            - FC Getafe
@@ -418,17 +418,19 @@ Jornada 26
 
 
 Jornada 27
-[Dom.. 8.3.]
- 18:30 Real Valladolid         - Athletic Bilbao
- 18:30 Real Betis Sevilla      - Real Madrid
- 18:30 Atletico Madrid         - FC Sevilla
+[Vie.. 6.3.]
+ 21:00 Deportivo Alaves        - FC Valencia
+[Sáb.. 7.3.]
+ 13:00 CA Osasuna              - Espanyol Barcelona
+ 16:00 Atletico Madrid         - FC Sevilla
  18:30 FC Barcelona            - Real Sociedad San Sebastian
- 18:30 Deportivo Alaves        - FC Valencia
+ 21:00 FC Getafe               - Celta Vigo
+[Dom.. 8.3.]
+ 12:00 SD Eibar                - RCD Mallorca
+ 14:00 Real Valladolid         - Athletic Bilbao
+ 16:00 UD Levante              - FC Granada
  18:30 FC Villarreal           - CD Leganes
- 18:30 FC Getafe               - Celta Vigo
- 18:30 CA Osasuna              - Espanyol Barcelona
- 18:30 SD Eibar                - RCD Mallorca
- 18:30 UD Levante              - FC Granada
+ 21:00 Real Betis Sevilla      - Real Madrid
 
 
 Jornada 28
