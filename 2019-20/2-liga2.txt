@@ -465,10 +465,10 @@ Jornada 28
 [Vie.. 14.2.]
  21:00 Deportivo La Coruna     2-2 FC Girona
 [Sáb.. 15.2.]
- 16:00 SD Huesca               - UD Almeria
- 18:15 Real Oviedo             - AD Alcorcon
- 18:15 CD Numancia             - UD Las Palmas
- 21:00 FC Elche                - Real Saragossa
+ 16:00 SD Huesca               3-2 UD Almeria
+ 18:15 Real Oviedo             1-2 AD Alcorcon
+ 18:15 CD Numancia             1-1 UD Las Palmas
+ 21:00 FC Elche                1-2 Real Saragossa
 [Dom.. 16.2.]
  12:00 CD Mirandes             - Albacete Balompie
  12:00 CF Fuenlabrada          - CD Lugo

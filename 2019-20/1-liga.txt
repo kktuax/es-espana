@@ -373,10 +373,10 @@ Jornada 24
 [Vie.. 14.2.]
  21:00 FC Valencia             2-2 Atletico Madrid
 [Sáb.. 15.2.]
- 13:00 RCD Mallorca            - Deportivo Alaves
- 16:00 FC Barcelona            - FC Getafe
- 18:30 FC Villarreal           - UD Levante
- 21:00 FC Granada              - Real Valladolid
+ 13:00 RCD Mallorca            1-0 Deportivo Alaves
+ 16:00 FC Barcelona            2-1 FC Getafe
+ 18:30 FC Villarreal           2-1 UD Levante
+ 21:00 FC Granada              2-1 Real Valladolid
 [Dom.. 16.2.]
  12:00 FC Sevilla              - Espanyol Barcelona
  14:00 CD Leganes              - Real Betis Sevilla
