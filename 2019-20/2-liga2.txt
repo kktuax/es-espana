@@ -513,18 +513,20 @@ Jornada 30
 
 
 Jornada 31
+[Vie.. 6.3.]
+ 21:00 CD Lugo                 - FC Cadiz
+[Sáb.. 7.3.]
+ 16:00 FC Girona               - Albacete Balompie
+ 16:00 Extremadura UD          - Real Oviedo
+ 18:15 CD Numancia             - Racing Santander
+ 18:15 SD Huesca               - CF Fuenlabrada
+ 21:00 UD Almeria              - Deportivo La Coruna
 [Dom.. 8.3.]
- 18:00 CD Teneriffa            - SD Ponferradina
- 18:00 Sporting Gijon          - UD Las Palmas
- 18:00 Rayo Vallecano          - FC Elche
- 18:00 FC Malaga               - Real Saragossa
- 18:00 CD Numancia             - Racing Santander
- 18:00 UD Almeria              - Deportivo La Coruna
- 18:00 FC Girona               - Albacete Balompie
- 18:00 CD Lugo                 - FC Cadiz
- 18:00 AD Alcorcon             - CD Mirandes
- 18:00 SD Huesca               - CF Fuenlabrada
- 18:00 Extremadura UD          - Real Oviedo
+ 12:00 Rayo Vallecano          - FC Elche
+ 16:00 FC Malaga               - Real Saragossa
+ 18:15 Sporting Gijon          - UD Las Palmas
+ 18:15 AD Alcorcon             - CD Mirandes
+ 20:30 CD Teneriffa            - SD Ponferradina
 
 
 Jornada 32
