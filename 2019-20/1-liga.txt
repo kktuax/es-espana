@@ -380,9 +380,10 @@ Jornada 24
 [Dom.. 16.2.]
  12:00 FC Sevilla              2-2 Espanyol Barcelona
  14:00 CD Leganes              0-0 Real Betis Sevilla
- 16:00 SD Eibar                - Real Sociedad San Sebastian
  18:30 Athletic Bilbao         0-1 CA Osasuna
  21:00 Real Madrid             2-2 Celta Vigo
+[Mar.. 10.3.]
+ 20:00 SD Eibar                - Real Sociedad San Sebastian
 
 
 Jornada 25
