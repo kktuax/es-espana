@@ -435,17 +435,19 @@ Jornada 27
 
 
 Jornada 28
-[Dom.. 15.3.]
- 18:30 Celta Vigo              - FC Villarreal
- 18:30 Athletic Bilbao         - Atletico Madrid
- 18:30 Espanyol Barcelona      - Deportivo Alaves
- 18:30 Real Madrid             - SD Eibar
- 18:30 Real Sociedad San Sebastian - CA Osasuna
+[Vie.. 13.3.]
+ 21:00 Real Madrid             - SD Eibar
+[Sáb.. 14.3.]
+ 13:00 CD Leganes              - Real Valladolid
+ 16:00 FC Valencia             - UD Levante
  18:30 RCD Mallorca            - FC Barcelona
- 18:30 FC Valencia             - UD Levante
- 18:30 FC Sevilla              - Real Betis Sevilla
- 18:30 CD Leganes              - Real Valladolid
+ 21:00 Celta Vigo              - FC Villarreal
+[Dom.. 15.3.]
+ 12:00 Espanyol Barcelona      - Deportivo Alaves
+ 14:00 Real Sociedad San Sebastian - CA Osasuna
+ 16:00 Athletic Bilbao         - Atletico Madrid
  18:30 FC Granada              - FC Getafe
+ 21:00 FC Sevilla              - Real Betis Sevilla
 
 
 Jornada 29
