@@ -482,11 +482,11 @@ Jornada 29
 [Vie.. 21.2.]
  21:00 Sporting Gijon          1-0 FC Cadiz
 [Sáb.. 22.2.]
- 16:00 UD Almeria              - CF Fuenlabrada
- 16:00 AD Alcorcon             - UD Las Palmas
- 18:15 CD Teneriffa            - FC Elche
- 18:15 FC Girona               - SD Ponferradina
- 20:30 Albacete Balompie       - CD Numancia
+ 16:00 UD Almeria              0-0 CF Fuenlabrada
+ 16:00 AD Alcorcon             1-1 UD Las Palmas
+ 18:15 CD Teneriffa            1-0 FC Elche
+ 18:15 FC Girona               2-0 SD Ponferradina
+ 20:30 Albacete Balompie       2-1 CD Numancia
 [Dom.. 23.2.]
  12:00 CD Lugo                 - Real Oviedo
  16:00 Real Saragossa          - Deportivo La Coruna
