@@ -547,18 +547,20 @@ Jornada 32
 
 
 Jornada 33
+[Vie.. 20.3.]
+ 21:00 UD Almeria              - UD Las Palmas
+[Sáb.. 21.3.]
+ 16:00 SD Huesca               - CD Mirandes
+ 18:15 Real Oviedo             - Deportivo La Coruna
+ 18:15 CD Teneriffa            - FC Malaga
+ 21:00 CD Numancia             - FC Cadiz
 [Dom.. 22.3.]
- 18:00 Real Oviedo             - Deportivo La Coruna
- 18:00 CD Teneriffa            - FC Malaga
- 18:00 Rayo Vallecano          - CF Fuenlabrada
- 18:00 CD Numancia             - FC Cadiz
- 18:00 SD Ponferradina         - FC Elche
- 18:00 UD Almeria              - UD Las Palmas
- 18:00 FC Girona               - Racing Santander
- 18:00 CD Lugo                 - Real Saragossa
- 18:00 AD Alcorcon             - Sporting Gijon
- 18:00 SD Huesca               - CD Mirandes
- 18:00 Extremadura UD          - Albacete Balompie
+ 12:00 Rayo Vallecano          - CF Fuenlabrada
+ 16:00 SD Ponferradina         - FC Elche
+ 16:00 CD Lugo                 - Real Saragossa
+ 18:15 FC Girona               - Racing Santander
+ 18:15 AD Alcorcon             - Sporting Gijon
+ 20:30 Extremadura UD          - Albacete Balompie
 
 
 Jornada 34
