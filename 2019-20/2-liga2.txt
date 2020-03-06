@@ -564,18 +564,20 @@ Jornada 33
 
 
 Jornada 34
+[Vie.. 27.3.]
+ 21:00 FC Elche                - FC Girona
+[Sáb.. 28.3.]
+ 13:00 CF Fuenlabrada          - CD Numancia
+ 16:00 Deportivo La Coruna     - Rayo Vallecano
+ 18:30 UD Las Palmas           - CD Lugo
+ 18:30 Albacete Balompie       - SD Huesca
+ 21:00 Racing Santander        - CD Teneriffa
+ 21:00 FC Malaga               - Extremadura UD
 [Dom.. 29.3.]
- 18:00 Real Saragossa          - UD Almeria
- 18:00 Racing Santander        - CD Teneriffa
- 18:00 Deportivo La Coruna     - Rayo Vallecano
- 18:00 Sporting Gijon          - Real Oviedo
- 18:00 UD Las Palmas           - CD Lugo
- 18:00 FC Malaga               - Extremadura UD
- 18:00 FC Elche                - FC Girona
- 18:00 Albacete Balompie       - SD Huesca
- 18:00 FC Cadiz                - AD Alcorcon
- 18:00 CD Mirandes             - SD Ponferradina
- 18:00 CF Fuenlabrada          - CD Numancia
+ 12:00 FC Cadiz                - AD Alcorcon
+ 16:00 Real Saragossa          - UD Almeria
+ 16:00 CD Mirandes             - SD Ponferradina
+ 21:00 Sporting Gijon          - Real Oviedo
 
 
 Jornada 35
