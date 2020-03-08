@@ -516,11 +516,11 @@ Jornada 31
 [Vie.. 6.3.]
  21:00 CD Lugo                 1-1 FC Cadiz
 [Sáb.. 7.3.]
- 16:00 FC Girona               - Albacete Balompie
- 16:00 Extremadura UD          - Real Oviedo
- 18:15 CD Numancia             - Racing Santander
- 18:15 SD Huesca               - CF Fuenlabrada
- 21:00 UD Almeria              - Deportivo La Coruna
+ 16:00 FC Girona               1-1 Albacete Balompie
+ 16:00 Extremadura UD          1-2 Real Oviedo
+ 18:15 CD Numancia             1-2 Racing Santander
+ 18:15 SD Huesca               2-0 CF Fuenlabrada
+ 21:00 UD Almeria              4-0 Deportivo La Coruna
 [Dom.. 8.3.]
  12:00 Rayo Vallecano          - FC Elche
  16:00 FC Malaga               - Real Saragossa
