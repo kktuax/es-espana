@@ -427,11 +427,11 @@ Jornada 27
  18:30 FC Barcelona            1-0 Real Sociedad San Sebastian
  21:00 FC Getafe               0-0 Celta Vigo
 [Dom.. 8.3.]
- 12:00 CA Osasuna              - Espanyol Barcelona
- 14:00 Real Valladolid         - Athletic Bilbao
- 16:00 UD Levante              - FC Granada
- 18:30 FC Villarreal           - CD Leganes
- 21:00 Real Betis Sevilla      - Real Madrid
+ 12:00 CA Osasuna              1-0 Espanyol Barcelona
+ 14:00 Real Valladolid         1-4 Athletic Bilbao
+ 16:00 UD Levante              1-1 FC Granada
+ 18:30 FC Villarreal           1-2 CD Leganes
+ 21:00 Real Betis Sevilla      2-1 Real Madrid
 
 
 Jornada 28
