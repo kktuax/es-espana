@@ -435,39 +435,41 @@ Jornada 27
 
 
 Jornada 28
-[Vie.. 13.3.]
- 21:00 Real Madrid             - SD Eibar
-[Sáb.. 14.3.]
- 13:00 CD Leganes              - Real Valladolid
- 16:00 FC Valencia             - UD Levante
- 18:30 RCD Mallorca            - FC Barcelona
- 21:00 Celta Vigo              - FC Villarreal
-[Dom.. 15.3.]
- 12:00 Espanyol Barcelona      - Deportivo Alaves
- 14:00 Real Sociedad San Sebastian - CA Osasuna
- 16:00 Athletic Bilbao         - Atletico Madrid
- 18:30 FC Granada              - FC Getafe
- 21:00 FC Sevilla              - Real Betis Sevilla
+[Jue.. 11.6.]
+ 22:00 FC Sevilla              - Real Betis Sevilla
+[Vie.. 12.6.]
+ 19:30 FC Granada              - FC Getafe
+ 22:00 FC Valencia             - UD Levante
+[Sáb.. 13.6.]
+ 13:00 Espanyol Barcelona      - Deportivo Alaves
+ 17:00 Celta Vigo              - FC Villarreal
+ 19:30 CD Leganes              - Real Valladolid
+ 22:00 RCD Mallorca            - FC Barcelona
+[Dom.. 14.6.]
+ 13:00 Athletic Bilbao         - Atletico Madrid
+ 19:30 Real Madrid             - SD Eibar
+ 22:00 Real Sociedad San Sebastian - CA Osasuna
 
 
 Jornada 29
-[Vie.. 20.3.]
- 21:00 CA Osasuna              - Atletico Madrid
-[Sáb.. 21.3.]
- 13:00 Real Valladolid         - Celta Vigo
- 16:00 Real Madrid             - FC Valencia
- 18:30 Deportivo Alaves        - Real Sociedad San Sebastian
- 21:00 SD Eibar                - Athletic Bilbao
-[Dom.. 22.3.]
- 12:00 FC Villarreal           - RCD Mallorca
- 14:00 Real Betis Sevilla      - FC Granada
- 16:00 FC Getafe               - Espanyol Barcelona
- 18:30 UD Levante              - FC Sevilla
- 21:00 FC Barcelona            - CD Leganes
+[Lun.. 15.6.]
+ 19:30 UD Levante              - FC Sevilla
+ 22:00 Real Betis Sevilla      - FC Granada
+[Mar.. 16.6.]
+ 19:30 FC Villarreal           - RCD Mallorca
+ 19:30 FC Getafe               - Espanyol Barcelona
+ 22:00 FC Barcelona            - CD Leganes
+[Mié.. 17.6.]
+ 19:30 Real Valladolid         - Celta Vigo
+ 19:30 SD Eibar                - Athletic Bilbao
+ 22:00 CA Osasuna              - Atletico Madrid
+[Jue.. 18.6.]
+ 19:30 Deportivo Alaves        - Real Sociedad San Sebastian
+ 22:00 Real Madrid             - FC Valencia
 
 
 Jornada 30
-[Dom.. 5.4.]
+[Dom.. 21.6.]
  18:30 Celta Vigo              - Deportivo Alaves
  18:30 Athletic Bilbao         - Real Betis Sevilla
  18:30 Espanyol Barcelona      - UD Levante
@@ -481,49 +483,49 @@ Jornada 30
 
 
 Jornada 31
-[Dom.. 12.4.]
- 18:30 Real Valladolid         - FC Getafe
- 18:30 Real Betis Sevilla      - Espanyol Barcelona
- 18:30 Real Madrid             - RCD Mallorca
- 18:30 FC Barcelona            - Athletic Bilbao
- 18:30 Real Sociedad San Sebastian - Celta Vigo
- 18:30 Deportivo Alaves        - CA Osasuna
- 18:30 FC Villarreal           - FC Sevilla
- 18:30 CD Leganes              - FC Granada
- 18:30 SD Eibar                - FC Valencia
- 18:30 UD Levante              - Atletico Madrid
+[Mié.. 24.6.]
+ 21:00 Real Valladolid         - FC Getafe
+ 21:00 Real Betis Sevilla      - Espanyol Barcelona
+ 21:00 Real Madrid             - RCD Mallorca
+ 21:00 FC Barcelona            - Athletic Bilbao
+ 21:00 Real Sociedad San Sebastian - Celta Vigo
+ 21:00 Deportivo Alaves        - CA Osasuna
+ 21:00 FC Villarreal           - FC Sevilla
+ 21:00 CD Leganes              - FC Granada
+ 21:00 SD Eibar                - FC Valencia
+ 21:00 UD Levante              - Atletico Madrid
 
 
 Jornada 32
-[Mié.. 22.4.]
- 21:00 Celta Vigo              - FC Barcelona
- 21:00 Athletic Bilbao         - RCD Mallorca
- 21:00 Espanyol Barcelona      - Real Madrid
- 21:00 Atletico Madrid         - Deportivo Alaves
- 21:00 FC Villarreal           - FC Valencia
- 21:00 FC Sevilla              - Real Valladolid
- 21:00 FC Getafe               - Real Sociedad San Sebastian
- 21:00 CA Osasuna              - CD Leganes
- 21:00 UD Levante              - Real Betis Sevilla
- 21:00 FC Granada              - SD Eibar
+[Dom.. 28.6.]
+ 18:30 Celta Vigo              - FC Barcelona
+ 18:30 Athletic Bilbao         - RCD Mallorca
+ 18:30 Espanyol Barcelona      - Real Madrid
+ 18:30 Atletico Madrid         - Deportivo Alaves
+ 18:30 FC Villarreal           - FC Valencia
+ 18:30 FC Sevilla              - Real Valladolid
+ 18:30 FC Getafe               - Real Sociedad San Sebastian
+ 18:30 CA Osasuna              - CD Leganes
+ 18:30 UD Levante              - Real Betis Sevilla
+ 18:30 FC Granada              - SD Eibar
 
 
 Jornada 33
-[Dom.. 26.4.]
- 18:30 Real Valladolid         - UD Levante
- 18:30 Real Betis Sevilla      - FC Villarreal
- 18:30 Real Madrid             - FC Getafe
- 18:30 FC Barcelona            - Atletico Madrid
- 18:30 Real Sociedad San Sebastian - Espanyol Barcelona
- 18:30 RCD Mallorca            - Celta Vigo
- 18:30 FC Valencia             - Athletic Bilbao
- 18:30 Deportivo Alaves        - FC Granada
- 18:30 CD Leganes              - FC Sevilla
- 18:30 SD Eibar                - CA Osasuna
+[Mié.. 1.7.]
+ 21:00 Real Valladolid         - UD Levante
+ 21:00 Real Betis Sevilla      - FC Villarreal
+ 21:00 Real Madrid             - FC Getafe
+ 21:00 FC Barcelona            - Atletico Madrid
+ 21:00 Real Sociedad San Sebastian - Espanyol Barcelona
+ 21:00 RCD Mallorca            - Celta Vigo
+ 21:00 FC Valencia             - Athletic Bilbao
+ 21:00 Deportivo Alaves        - FC Granada
+ 21:00 CD Leganes              - FC Sevilla
+ 21:00 SD Eibar                - CA Osasuna
 
 
 Jornada 34
-[Dom.. 3.5.]
+[Dom.. 5.7.]
  18:30 Celta Vigo              - Real Betis Sevilla
  18:30 Athletic Bilbao         - Real Madrid
  18:30 Espanyol Barcelona      - CD Leganes
@@ -537,54 +539,55 @@ Jornada 34
 
 
 Jornada 35
-[Dom.. 10.5.]
- 18:30 Celta Vigo              - Atletico Madrid
- 18:30 Athletic Bilbao         - FC Sevilla
- 18:30 Real Betis Sevilla      - CA Osasuna
- 18:30 Real Madrid             - Deportivo Alaves
- 18:30 FC Barcelona            - Espanyol Barcelona
- 18:30 Real Sociedad San Sebastian - FC Granada
- 18:30 RCD Mallorca            - UD Levante
- 18:30 FC Valencia             - Real Valladolid
- 18:30 FC Getafe               - FC Villarreal
- 18:30 SD Eibar                - CD Leganes
+[Mié.. 8.7.]
+ 21:00 Celta Vigo              - Atletico Madrid
+ 21:00 Athletic Bilbao         - FC Sevilla
+ 21:00 Real Betis Sevilla      - CA Osasuna
+ 21:00 Real Madrid             - Deportivo Alaves
+ 21:00 FC Barcelona            - Espanyol Barcelona
+ 21:00 Real Sociedad San Sebastian - FC Granada
+ 21:00 RCD Mallorca            - UD Levante
+ 21:00 FC Valencia             - Real Valladolid
+ 21:00 FC Getafe               - FC Villarreal
+ 21:00 SD Eibar                - CD Leganes
 
 
 Jornada 36
-[Mié.. 13.5.]
- 21:00 Espanyol Barcelona      - SD Eibar
- 21:00 Real Valladolid         - FC Barcelona
- 21:00 Atletico Madrid         - Real Betis Sevilla
- 21:00 Deportivo Alaves        - FC Getafe
- 21:00 FC Villarreal           - Real Sociedad San Sebastian
- 21:00 FC Sevilla              - RCD Mallorca
- 21:00 CD Leganes              - FC Valencia
- 21:00 CA Osasuna              - Celta Vigo
- 21:00 UD Levante              - Athletic Bilbao
- 21:00 FC Granada              - Real Madrid
+[Dom.. 12.7.]
+ 18:30 Espanyol Barcelona      - SD Eibar
+ 18:30 Real Valladolid         - FC Barcelona
+ 18:30 Atletico Madrid         - Real Betis Sevilla
+ 18:30 Deportivo Alaves        - FC Getafe
+ 18:30 FC Villarreal           - Real Sociedad San Sebastian
+ 18:30 FC Sevilla              - RCD Mallorca
+ 18:30 CD Leganes              - FC Valencia
+ 18:30 CA Osasuna              - Celta Vigo
+ 18:30 UD Levante              - Athletic Bilbao
+ 18:30 FC Granada              - Real Madrid
 
 
 Jornada 37
-[Dom.. 17.5.]
- 18:30 Celta Vigo              - UD Levante
- 18:30 Athletic Bilbao         - CD Leganes
- 18:30 Real Betis Sevilla      - Deportivo Alaves
- 18:30 Real Madrid             - FC Villarreal
- 18:30 FC Barcelona            - CA Osasuna
- 18:30 Real Sociedad San Sebastian - FC Sevilla
- 18:30 RCD Mallorca            - FC Granada
- 18:30 FC Valencia             - Espanyol Barcelona
- 18:30 FC Getafe               - Atletico Madrid
- 18:30 SD Eibar                - Real Valladolid
+[Mié.. 15.7.]
+ 21:00 Celta Vigo              - UD Levante
+ 21:00 Athletic Bilbao         - CD Leganes
+ 21:00 Real Betis Sevilla      - Deportivo Alaves
+ 21:00 Real Madrid             - FC Villarreal
+ 21:00 FC Barcelona            - CA Osasuna
+ 21:00 Real Sociedad San Sebastian - FC Sevilla
+ 21:00 RCD Mallorca            - FC Granada
+ 21:00 FC Valencia             - Espanyol Barcelona
+ 21:00 FC Getafe               - Atletico Madrid
+ 21:00 SD Eibar                - Real Valladolid
 
 
 Jornada 38
-[Dom.. 24.5.]
+[Vie.. 17.7.]
+ 18:30 FC Villarreal           - SD Eibar
+[Dom.. 19.7.]
  18:30 Espanyol Barcelona      - Celta Vigo
  18:30 Real Valladolid         - Real Betis Sevilla
  18:30 Atletico Madrid         - Real Sociedad San Sebastian
  18:30 Deportivo Alaves        - FC Barcelona
- 18:30 FC Villarreal           - SD Eibar
  18:30 FC Sevilla              - FC Valencia
  18:30 CD Leganes              - Real Madrid
  18:30 CA Osasuna              - RCD Mallorca
