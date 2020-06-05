@@ -538,8 +538,8 @@ Jornada 32
  21:30 Real Oviedo             - SD Ponferradina
 [Sáb.. 13.6.]
  17:00 Racing Santander        - CD Lugo
- 19:30 Real Saragossa          - AD Alcorcon
- 21:30 UD Las Palmas           - FC Girona
+ 19:30 UD Las Palmas           - FC Girona
+ 21:30 Real Saragossa          - AD Alcorcon
 [Dom.. 14.6.]
  17:00 CD Mirandes             - CD Numancia
  17:00 Deportivo La Coruna     - Sporting Gijon
