@@ -566,33 +566,38 @@ Jornada 33
 
 
 Jornada 34
-[Dom.. 21.6.]
- 17:00 FC Elche                - FC Girona
- 17:00 CF Fuenlabrada          - CD Numancia
+[Vie.. 19.6.]
+ 19:30 FC Elche                - FC Girona
+[Sáb.. 20.6.]
  17:00 Deportivo La Coruna     - Rayo Vallecano
- 17:00 UD Las Palmas           - CD Lugo
- 17:00 Albacete Balompie       - SD Huesca
+ 19:30 UD Las Palmas           - CD Lugo
+ 19:30 Real Saragossa          - UD Almeria
+ 21:45 FC Malaga               - Extremadura UD
+[Dom.. 21.6.]
  17:00 Racing Santander        - CD Teneriffa
- 17:00 FC Malaga               - Extremadura UD
- 17:00 FC Cadiz                - AD Alcorcon
- 17:00 Real Saragossa          - UD Almeria
  17:00 CD Mirandes             - SD Ponferradina
- 17:00 Sporting Gijon          - Real Oviedo
+ 19:30 Albacete Balompie       - SD Huesca
+ 19:30 FC Cadiz                - AD Alcorcon
+ 21:45 CF Fuenlabrada          - CD Numancia
+[Lun.. 22.6.]
+ 21:45 Sporting Gijon          - Real Oviedo
 
 
 Jornada 35
-[Mié.. 24.6.]
- 19:30 Real Oviedo             - CF Fuenlabrada
- 19:30 CD Teneriffa            - CD Mirandes
- 19:30 Rayo Vallecano          - Sporting Gijon
+[Mar.. 23.6.]
  19:30 FC Elche                - Deportivo La Coruna
- 19:30 Albacete Balompie       - UD Las Palmas
- 19:30 SD Ponferradina         - Racing Santander
- 19:30 UD Almeria              - AD Alcorcon
- 19:30 FC Girona               - CD Numancia
- 19:30 CD Lugo                 - FC Malaga
- 19:30 SD Huesca               - FC Cadiz
  19:30 Extremadura UD          - Real Saragossa
+ 21:45 CD Lugo                 - FC Malaga
+[Mié.. 24.6.]
+ 19:30 CD Teneriffa            - CD Mirandes
+ 19:30 FC Girona               - CD Numancia
+ 19:30 SD Huesca               - FC Cadiz
+ 21:45 Albacete Balompie       - UD Las Palmas
+ 21:45 SD Ponferradina         - Racing Santander
+[Jue.. 25.6.]
+ 19:30 Rayo Vallecano          - Sporting Gijon
+ 19:30 UD Almeria              - AD Alcorcon
+ 21:45 Real Oviedo             - CF Fuenlabrada
 
 
 Jornada 36

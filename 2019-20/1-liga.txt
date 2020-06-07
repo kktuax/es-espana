@@ -469,31 +469,36 @@ Jornada 29
 
 
 Jornada 30
+[Vie.. 19.6.]
+ 19:30 RCD Mallorca            - CD Leganes
+ 19:30 FC Granada              - FC Villarreal
+ 22:00 FC Sevilla              - FC Barcelona
+[Sáb.. 20.6.]
+ 14:00 Espanyol Barcelona      - UD Levante
+ 17:00 Athletic Bilbao         - Real Betis Sevilla
+ 19:30 FC Getafe               - SD Eibar
+ 22:00 Atletico Madrid         - Real Valladolid
 [Dom.. 21.6.]
- 18:30 Celta Vigo              - Deportivo Alaves
- 18:30 Athletic Bilbao         - Real Betis Sevilla
- 18:30 Espanyol Barcelona      - UD Levante
- 18:30 Atletico Madrid         - Real Valladolid
- 18:30 Real Sociedad San Sebastian - Real Madrid
- 18:30 RCD Mallorca            - CD Leganes
- 18:30 FC Valencia             - CA Osasuna
- 18:30 FC Sevilla              - FC Barcelona
- 18:30 FC Getafe               - SD Eibar
- 18:30 FC Granada              - FC Villarreal
+ 14:00 Celta Vigo              - Deportivo Alaves
+ 19:30 FC Valencia             - CA Osasuna
+ 22:00 Real Sociedad San Sebastian - Real Madrid
 
 
 Jornada 31
+[Lun.. 22.6.]
+ 19:30 CD Leganes              - FC Granada
+ 22:00 FC Villarreal           - FC Sevilla
+[Mar.. 23.6.]
+ 19:30 Real Valladolid         - FC Getafe
+ 19:30 UD Levante              - Atletico Madrid
+ 22:00 FC Barcelona            - Athletic Bilbao
 [Mié.. 24.6.]
- 21:00 Real Valladolid         - FC Getafe
- 21:00 Real Betis Sevilla      - Espanyol Barcelona
- 21:00 Real Madrid             - RCD Mallorca
- 21:00 FC Barcelona            - Athletic Bilbao
- 21:00 Real Sociedad San Sebastian - Celta Vigo
- 21:00 Deportivo Alaves        - CA Osasuna
- 21:00 FC Villarreal           - FC Sevilla
- 21:00 CD Leganes              - FC Granada
- 21:00 SD Eibar                - FC Valencia
- 21:00 UD Levante              - Atletico Madrid
+ 19:30 Real Sociedad San Sebastian - Celta Vigo
+ 19:30 Deportivo Alaves        - CA Osasuna
+ 22:00 Real Madrid             - RCD Mallorca
+[Jue.. 25.6.]
+ 19:30 SD Eibar                - FC Valencia
+ 22:00 Real Betis Sevilla      - Espanyol Barcelona
 
 
 Jornada 32
