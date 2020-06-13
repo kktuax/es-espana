@@ -537,9 +537,9 @@ Jornada 32
  19:30 FC Elche                1-1 Extremadura UD
  21:45 Real Oviedo             0-0 SD Ponferradina
 [Sáb.. 13.6.]
- 17:00 Racing Santander        - CD Lugo
- 19:30 UD Las Palmas           - FC Girona
- 21:30 Real Saragossa          - AD Alcorcon
+ 17:00 Racing Santander        1-2 CD Lugo
+ 19:30 UD Las Palmas           0-0 FC Girona
+ 21:30 Real Saragossa          1-3 AD Alcorcon
 [Dom.. 14.6.]
  17:00 CD Mirandes             - CD Numancia
  17:00 Deportivo La Coruna     - Sporting Gijon
@@ -553,16 +553,16 @@ Jornada 33
  21:30 CD Teneriffa            - FC Malaga
 [Mar.. 16.6.]
  19:30 CD Lugo                 - Real Saragossa
- 21:30 FC Girona               - Racing Santander
+ 21:45 FC Girona               - Racing Santander
 [Mié.. 17.6.]
  19:30 UD Almeria              - UD Las Palmas
  19:30 Real Oviedo             - Deportivo La Coruna
  19:30 Extremadura UD          - Albacete Balompie
- 21:30 Rayo Vallecano          - CF Fuenlabrada
+ 21:45 Rayo Vallecano          - CF Fuenlabrada
 [Jue.. 18.6.]
  19:30 SD Huesca               - CD Mirandes
  19:30 CD Numancia             - FC Cadiz
- 21:30 AD Alcorcon             - Sporting Gijon
+ 21:45 AD Alcorcon             - Sporting Gijon
 
 
 Jornada 34
