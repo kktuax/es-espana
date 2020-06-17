@@ -555,10 +555,10 @@ Jornada 33
  19:30 CD Lugo                 1-3 Real Saragossa
  21:45 FC Girona               0-0 Racing Santander
 [Mié.. 17.6.]
- 19:30 UD Almeria              - UD Las Palmas
- 19:30 Real Oviedo             - Deportivo La Coruna
- 19:30 Extremadura UD          - Albacete Balompie
- 21:45 Rayo Vallecano          - CF Fuenlabrada
+ 19:30 UD Almeria              0-1 UD Las Palmas
+ 19:30 Real Oviedo             2-2 Deportivo La Coruna
+ 19:30 Extremadura UD          0-1 Albacete Balompie
+ 21:45 Rayo Vallecano          1-0 CF Fuenlabrada
 [Jue.. 18.6.]
  19:30 SD Huesca               - CD Mirandes
  19:30 CD Numancia             - FC Cadiz
@@ -586,8 +586,8 @@ Jornada 34
 Jornada 35
 [Mar.. 23.6.]
  19:30 FC Elche                - Deportivo La Coruna
- 19:30 Extremadura UD          - Real Saragossa
- 21:45 CD Lugo                 - FC Malaga
+ 19:30 CD Lugo                 - FC Malaga
+ 21:45 Extremadura UD          - Real Saragossa
 [Mié.. 24.6.]
  19:30 CD Teneriffa            - CD Mirandes
  19:30 FC Girona               - CD Numancia

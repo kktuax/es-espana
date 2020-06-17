@@ -460,9 +460,9 @@ Jornada 29
  19:30 FC Getafe               0-0 Espanyol Barcelona
  22:00 FC Barcelona            2-0 CD Leganes
 [Mié.. 17.6.]
- 19:30 Real Valladolid         - Celta Vigo
- 19:30 SD Eibar                - Athletic Bilbao
- 22:00 CA Osasuna              - Atletico Madrid
+ 19:30 Real Valladolid         0-0 Celta Vigo
+ 19:30 SD Eibar                2-2 Athletic Bilbao
+ 22:00 CA Osasuna              0-5 Atletico Madrid
 [Jue.. 18.6.]
  19:30 Deportivo Alaves        - Real Sociedad San Sebastian
  22:00 Real Madrid             - FC Valencia
