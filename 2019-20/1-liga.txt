@@ -464,8 +464,8 @@ Jornada 29
  19:30 SD Eibar                2-2 Athletic Bilbao
  22:00 CA Osasuna              0-5 Atletico Madrid
 [Jue.. 18.6.]
- 19:30 Deportivo Alaves        - Real Sociedad San Sebastian
- 22:00 Real Madrid             - FC Valencia
+ 19:30 Deportivo Alaves        2-0 Real Sociedad San Sebastian
+ 22:00 Real Madrid             3-0 FC Valencia
 
 
 Jornada 30
@@ -486,8 +486,8 @@ Jornada 30
 
 Jornada 31
 [Lun.. 22.6.]
- 19:30 CD Leganes              - FC Granada
- 22:00 FC Villarreal           - FC Sevilla
+ 19:30 FC Villarreal           - FC Sevilla
+ 22:00 CD Leganes              - FC Granada
 [Mar.. 23.6.]
  19:30 Real Valladolid         - FC Getafe
  19:30 UD Levante              - Atletico Madrid
