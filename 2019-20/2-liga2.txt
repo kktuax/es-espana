@@ -580,7 +580,7 @@ Jornada 34
  19:30 FC Cadiz                1-1 AD Alcorcon
  21:45 CF Fuenlabrada          2-0 CD Numancia
 [Lun.. 22.6.]
- 21:45 Sporting Gijon          - Real Oviedo
+ 21:45 Sporting Gijon          0-1 Real Oviedo
 
 
 Jornada 35
@@ -618,33 +618,38 @@ Jornada 36
 
 
 Jornada 37
+[Mar.. 30.6.]
+ 19:30 CD Teneriffa            - Deportivo La Coruna
+ 21:45 FC Elche                - FC Cadiz
 [Mié.. 1.7.]
  19:30 Real Oviedo             - CD Mirandes
- 19:30 CD Teneriffa            - Deportivo La Coruna
- 19:30 Rayo Vallecano          - FC Malaga
- 19:30 FC Elche                - FC Cadiz
- 19:30 Albacete Balompie       - AD Alcorcon
- 19:30 SD Ponferradina         - CF Fuenlabrada
  19:30 UD Almeria              - Sporting Gijon
- 19:30 FC Girona               - Real Saragossa
  19:30 CD Lugo                 - CD Numancia
+ 21:45 SD Ponferradina         - CF Fuenlabrada
+ 21:45 Extremadura UD          - Racing Santander
+[Jue.. 2.7.]
+ 19:30 Albacete Balompie       - AD Alcorcon
  19:30 SD Huesca               - UD Las Palmas
- 19:30 Extremadura UD          - Racing Santander
+ 21:45 Rayo Vallecano          - FC Malaga
+[Vie.. 3.7.]
+ 19:30 FC Girona               - Real Saragossa
 
 
 Jornada 38
-[Dom.. 5.7.]
- 17:00 Real Saragossa          - Rayo Vallecano
+[Sáb.. 4.7.]
  17:00 Racing Santander        - FC Elche
- 17:00 Deportivo La Coruna     - SD Huesca
- 17:00 Sporting Gijon          - FC Girona
- 17:00 UD Las Palmas           - SD Ponferradina
- 17:00 FC Malaga               - Albacete Balompie
  17:00 CD Numancia             - Extremadura UD
- 17:00 UD Almeria              - CD Teneriffa
- 17:00 FC Cadiz                - Real Oviedo
- 17:00 CF Fuenlabrada          - CD Mirandes
- 17:00 AD Alcorcon             - CD Lugo
+ 19:30 UD Almeria              - CD Teneriffa
+ 21:45 FC Cadiz                - Real Oviedo
+ 21:45 CF Fuenlabrada          - CD Mirandes
+[Dom.. 5.7.]
+ 17:00 Deportivo La Coruna     - SD Huesca
+ 19:30 UD Las Palmas           - SD Ponferradina
+ 19:30 FC Malaga               - Albacete Balompie
+ 21:45 AD Alcorcon             - CD Lugo
+[Lun.. 6.7.]
+ 19:30 Sporting Gijon          - FC Girona
+ 21:45 Real Saragossa          - Rayo Vallecano
 
 
 Jornada 39
