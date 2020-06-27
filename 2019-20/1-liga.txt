@@ -505,10 +505,10 @@ Jornada 32
 [Vie.. 26.6.]
  22:00 FC Sevilla              1-1 Real Valladolid
 [Sáb.. 27.6.]
- 14:00 Athletic Bilbao         - RCD Mallorca
- 17:00 Celta Vigo              - FC Barcelona
- 19:30 CA Osasuna              - CD Leganes
- 22:00 Atletico Madrid         - Deportivo Alaves
+ 14:00 Athletic Bilbao         3-1 RCD Mallorca
+ 17:00 Celta Vigo              2-2 FC Barcelona
+ 19:30 CA Osasuna              2-1 CD Leganes
+ 22:00 Atletico Madrid         2-1 Deportivo Alaves
 [Dom.. 28.6.]
  14:00 UD Levante              - Real Betis Sevilla
  17:00 FC Villarreal           - FC Valencia
@@ -521,7 +521,7 @@ Jornada 32
 Jornada 33
 [Mar.. 30.6.]
  19:30 RCD Mallorca            - Celta Vigo
- 19:30 CD Leganes              - FC Sevilla
+ 21:00 CD Leganes              - FC Sevilla
  22:00 FC Barcelona            - Atletico Madrid
 [Mié.. 1.7.]
  19:30 FC Valencia             - Athletic Bilbao
