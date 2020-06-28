@@ -510,10 +510,10 @@ Jornada 32
  19:30 CA Osasuna              2-1 CD Leganes
  22:00 Atletico Madrid         2-1 Deportivo Alaves
 [Dom.. 28.6.]
- 14:00 UD Levante              - Real Betis Sevilla
- 17:00 FC Villarreal           - FC Valencia
- 19:30 FC Granada              - SD Eibar
- 22:00 Espanyol Barcelona      - Real Madrid
+ 14:00 UD Levante              4-2 Real Betis Sevilla
+ 17:00 FC Villarreal           2-0 FC Valencia
+ 19:30 FC Granada              1-2 SD Eibar
+ 22:00 Espanyol Barcelona      0-1 Real Madrid
 [Lun.. 29.6.]
  22:00 FC Getafe               - Real Sociedad San Sebastian
 
