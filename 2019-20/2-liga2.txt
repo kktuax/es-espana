@@ -619,8 +619,8 @@ Jornada 36
 
 Jornada 37
 [Mar.. 30.6.]
- 19:30 CD Teneriffa            - Deportivo La Coruna
- 21:45 FC Elche                - FC Cadiz
+ 19:30 CD Teneriffa            1-1 Deportivo La Coruna
+ 21:45 FC Elche                0-0 FC Cadiz
 [Mié.. 1.7.]
  19:30 Real Oviedo             - CD Mirandes
  19:30 UD Almeria              - Sporting Gijon
@@ -653,18 +653,20 @@ Jornada 38
 
 
 Jornada 39
+[Mar.. 7.7.]
+ 19:30 CD Mirandes             - FC Elche
+ 19:30 CF Fuenlabrada          - Racing Santander
+ 21:45 Extremadura UD          - FC Cadiz
 [Mié.. 8.7.]
  19:30 Real Oviedo             - UD Las Palmas
- 19:30 CD Teneriffa            - Real Saragossa
- 19:30 Rayo Vallecano          - CD Numancia
  19:30 FC Malaga               - Deportivo La Coruna
+ 21:45 SD Ponferradina         - CD Lugo
+ 21:45 SD Huesca               - AD Alcorcon
+[Jue.. 9.7.]
+ 19:30 Rayo Vallecano          - CD Numancia
  19:30 Albacete Balompie       - Sporting Gijon
- 19:30 SD Ponferradina         - CD Lugo
- 19:30 CD Mirandes             - FC Elche
- 19:30 FC Girona               - UD Almeria
- 19:30 CF Fuenlabrada          - Racing Santander
- 19:30 SD Huesca               - AD Alcorcon
- 19:30 Extremadura UD          - FC Cadiz
+ 21:45 CD Teneriffa            - Real Saragossa
+ 21:45 FC Girona               - UD Almeria
 
 
 Jornada 40

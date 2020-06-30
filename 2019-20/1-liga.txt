@@ -520,9 +520,9 @@ Jornada 32
 
 Jornada 33
 [Mar.. 30.6.]
- 19:30 RCD Mallorca            - Celta Vigo
- 21:00 CD Leganes              - FC Sevilla
- 22:00 FC Barcelona            - Atletico Madrid
+ 19:30 RCD Mallorca            5-1 Celta Vigo
+ 21:00 CD Leganes              0-3 FC Sevilla
+ 22:00 FC Barcelona            2-2 Atletico Madrid
 [Mié.. 1.7.]
  19:30 FC Valencia             - Athletic Bilbao
  19:30 Deportivo Alaves        - FC Granada
@@ -552,17 +552,20 @@ Jornada 34
 
 
 Jornada 35
+[Mar.. 7.7.]
+ 19:30 FC Valencia             - Real Valladolid
+ 22:00 Celta Vigo              - Atletico Madrid
 [Mié.. 8.7.]
- 21:00 Celta Vigo              - Atletico Madrid
- 21:00 Athletic Bilbao         - FC Sevilla
- 21:00 Real Betis Sevilla      - CA Osasuna
- 21:00 Real Madrid             - Deportivo Alaves
- 21:00 FC Barcelona            - Espanyol Barcelona
- 21:00 Real Sociedad San Sebastian - FC Granada
- 21:00 RCD Mallorca            - UD Levante
- 21:00 FC Valencia             - Real Valladolid
- 21:00 FC Getafe               - FC Villarreal
- 21:00 SD Eibar                - CD Leganes
+ 19:30 Real Betis Sevilla      - CA Osasuna
+ 19:30 FC Getafe               - FC Villarreal
+ 22:00 FC Barcelona            - Espanyol Barcelona
+[Jue.. 9.7.]
+ 19:30 RCD Mallorca            - UD Levante
+ 19:30 SD Eibar                - CD Leganes
+ 22:00 Athletic Bilbao         - FC Sevilla
+[Vie.. 10.7.]
+ 19:30 Real Sociedad San Sebastian - FC Granada
+ 22:00 Real Madrid             - Deportivo Alaves
 
 
 Jornada 36
