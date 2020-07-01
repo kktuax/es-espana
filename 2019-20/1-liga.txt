@@ -524,10 +524,10 @@ Jornada 33
  21:00 CD Leganes              0-3 FC Sevilla
  22:00 FC Barcelona            2-2 Atletico Madrid
 [Mié.. 1.7.]
- 19:30 FC Valencia             - Athletic Bilbao
- 19:30 Deportivo Alaves        - FC Granada
- 22:00 Real Valladolid         - UD Levante
- 22:00 Real Betis Sevilla      - FC Villarreal
+ 19:30 FC Valencia             0-2 Athletic Bilbao
+ 19:30 Deportivo Alaves        0-2 FC Granada
+ 22:00 Real Valladolid         0-0 UD Levante
+ 22:00 Real Betis Sevilla      0-2 FC Villarreal
 [Jue.. 2.7.]
  19:30 Real Sociedad San Sebastian - Espanyol Barcelona
  19:30 SD Eibar                - CA Osasuna
@@ -569,17 +569,19 @@ Jornada 35
 
 
 Jornada 36
+[Sáb.. 11.7.]
+ 17:00 CA Osasuna              - Celta Vigo
+ 19:30 Real Valladolid         - FC Barcelona
+ 22:00 Atletico Madrid         - Real Betis Sevilla
 [Dom.. 12.7.]
- 18:30 Espanyol Barcelona      - SD Eibar
- 18:30 Real Valladolid         - FC Barcelona
- 18:30 Atletico Madrid         - Real Betis Sevilla
- 18:30 Deportivo Alaves        - FC Getafe
- 18:30 FC Villarreal           - Real Sociedad San Sebastian
- 18:30 FC Sevilla              - RCD Mallorca
- 18:30 CD Leganes              - FC Valencia
- 18:30 CA Osasuna              - Celta Vigo
- 18:30 UD Levante              - Athletic Bilbao
- 18:30 FC Granada              - Real Madrid
+ 14:00 Espanyol Barcelona      - SD Eibar
+ 17:00 UD Levante              - Athletic Bilbao
+ 19:30 CD Leganes              - FC Valencia
+ 22:00 FC Sevilla              - RCD Mallorca
+[Lun.. 13.7.]
+ 19:30 Deportivo Alaves        - FC Getafe
+ 19:30 FC Villarreal           - Real Sociedad San Sebastian
+ 22:00 FC Granada              - Real Madrid
 
 
 Jornada 37

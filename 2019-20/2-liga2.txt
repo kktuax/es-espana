@@ -622,14 +622,14 @@ Jornada 37
  19:30 CD Teneriffa            1-1 Deportivo La Coruna
  21:45 FC Elche                0-0 FC Cadiz
 [Mié.. 1.7.]
- 19:30 Real Oviedo             - CD Mirandes
- 19:30 UD Almeria              - Sporting Gijon
- 19:30 CD Lugo                 - CD Numancia
- 21:45 SD Ponferradina         - CF Fuenlabrada
- 21:45 Extremadura UD          - Racing Santander
+ 19:30 Real Oviedo             1-0 CD Mirandes
+ 19:30 UD Almeria              1-0 Sporting Gijon
+ 19:30 CD Lugo                 3-1 CD Numancia
+ 21:45 SD Ponferradina         0-3 CF Fuenlabrada
+ 21:45 Extremadura UD          3-1 Racing Santander
 [Jue.. 2.7.]
- 19:30 Albacete Balompie       - AD Alcorcon
  19:30 SD Huesca               - UD Las Palmas
+ 20:00 Albacete Balompie       - AD Alcorcon
  21:45 Rayo Vallecano          - FC Malaga
 [Vie.. 3.7.]
  19:30 FC Girona               - Real Saragossa
@@ -670,18 +670,20 @@ Jornada 39
 
 
 Jornada 40
-[Dom.. 12.7.]
- 17:00 Real Saragossa          - Real Oviedo
+[Sáb.. 11.7.]
  17:00 Racing Santander        - SD Huesca
+ 19:30 UD Las Palmas           - CD Mirandes
+ 21:45 FC Cadiz                - CF Fuenlabrada
+[Dom.. 12.7.]
  17:00 Deportivo La Coruna     - Extremadura UD
- 17:00 Sporting Gijon          - FC Malaga
- 17:00 UD Las Palmas           - CD Mirandes
- 17:00 CD Numancia             - SD Ponferradina
- 17:00 FC Elche                - Albacete Balompie
- 17:00 UD Almeria              - Rayo Vallecano
- 17:00 FC Cadiz                - CF Fuenlabrada
- 17:00 CD Lugo                 - FC Girona
- 17:00 AD Alcorcon             - CD Teneriffa
+ 19:30 CD Numancia             - SD Ponferradina
+ 19:30 CD Lugo                 - FC Girona
+ 21:45 Real Saragossa          - Real Oviedo
+[Lun.. 13.7.]
+ 19:30 Sporting Gijon          - FC Malaga
+ 19:30 UD Almeria              - Rayo Vallecano
+ 21:45 FC Elche                - Albacete Balompie
+ 21:45 AD Alcorcon             - CD Teneriffa
 
 
 Jornada 41
