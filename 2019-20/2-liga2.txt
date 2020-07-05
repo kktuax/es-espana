@@ -643,10 +643,10 @@ Jornada 38
  21:45 FC Cadiz                2-0 Real Oviedo
  21:45 CF Fuenlabrada          2-2 CD Mirandes
 [Dom.. 5.7.]
- 17:00 Deportivo La Coruna     - SD Huesca
- 19:30 UD Las Palmas           - SD Ponferradina
- 19:30 FC Malaga               - Albacete Balompie
- 21:45 AD Alcorcon             - CD Lugo
+ 17:00 Deportivo La Coruna     2-1 SD Huesca
+ 19:30 UD Las Palmas           3-0 SD Ponferradina
+ 19:30 FC Malaga               0-0 Albacete Balompie
+ 21:45 AD Alcorcon             2-2 CD Lugo
 [Lun.. 6.7.]
  19:30 Sporting Gijon          - FC Girona
  21:45 Real Saragossa          - Rayo Vallecano
@@ -655,7 +655,7 @@ Jornada 38
 Jornada 39
 [Mar.. 7.7.]
  19:30 CD Mirandes             - FC Elche
- 19:30 CF Fuenlabrada          - Racing Santander
+ 20:30 CF Fuenlabrada          - Racing Santander
  21:45 Extremadura UD          - FC Cadiz
 [Mié.. 8.7.]
  19:30 Real Oviedo             - UD Las Palmas
@@ -663,8 +663,8 @@ Jornada 39
  21:45 SD Ponferradina         - CD Lugo
  21:45 SD Huesca               - AD Alcorcon
 [Jue.. 9.7.]
- 19:30 Rayo Vallecano          - CD Numancia
  19:30 Albacete Balompie       - Sporting Gijon
+ 20:30 Rayo Vallecano          - CD Numancia
  21:45 CD Teneriffa            - Real Saragossa
  21:45 FC Girona               - UD Almeria
 

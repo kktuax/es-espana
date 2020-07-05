@@ -542,10 +542,10 @@ Jornada 34
  19:30 Real Valladolid         1-0 Deportivo Alaves
  22:00 FC Granada              2-2 FC Valencia
 [Dom.. 5.7.]
- 14:00 Athletic Bilbao         - Real Madrid
- 17:00 Espanyol Barcelona      - CD Leganes
- 19:30 CA Osasuna              - FC Getafe
- 22:00 FC Villarreal           - FC Barcelona
+ 14:00 Athletic Bilbao         0-1 Real Madrid
+ 17:00 Espanyol Barcelona      0-1 CD Leganes
+ 19:30 CA Osasuna              0-0 FC Getafe
+ 22:00 FC Villarreal           1-4 FC Barcelona
 [Lun.. 6.7.]
  19:30 UD Levante              - Real Sociedad San Sebastian
  22:00 FC Sevilla              - SD Eibar
@@ -556,8 +556,8 @@ Jornada 35
  19:30 FC Valencia             - Real Valladolid
  22:00 Celta Vigo              - Atletico Madrid
 [Mié.. 8.7.]
- 19:30 Real Betis Sevilla      - CA Osasuna
- 19:30 FC Getafe               - FC Villarreal
+ 20:30 Real Betis Sevilla      - CA Osasuna
+ 20:30 FC Getafe               - FC Villarreal
  22:00 FC Barcelona            - Espanyol Barcelona
 [Jue.. 9.7.]
  19:30 RCD Mallorca            - UD Levante
