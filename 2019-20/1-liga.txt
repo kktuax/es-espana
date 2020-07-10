@@ -564,8 +564,8 @@ Jornada 35
  19:30 SD Eibar                0-0 CD Leganes
  22:00 Athletic Bilbao         1-2 FC Sevilla
 [Vie.. 10.7.]
- 19:30 Real Sociedad San Sebastian - FC Granada
- 22:00 Real Madrid             - Deportivo Alaves
+ 19:30 Real Sociedad San Sebastian 2-3 FC Granada
+ 22:00 Real Madrid             2-0 Deportivo Alaves
 
 
 Jornada 36
@@ -585,7 +585,7 @@ Jornada 36
 
 
 Jornada 37
-[Mié.. 15.7.]
+[Jue.. 16.7.]
  21:00 Celta Vigo              - UD Levante
  21:00 Athletic Bilbao         - CD Leganes
  21:00 Real Betis Sevilla      - Deportivo Alaves
@@ -600,13 +600,13 @@ Jornada 37
 
 Jornada 38
 [Dom.. 19.7.]
- 18:30 FC Villarreal           - SD Eibar
- 18:30 Espanyol Barcelona      - Celta Vigo
- 18:30 Real Valladolid         - Real Betis Sevilla
- 18:30 Atletico Madrid         - Real Sociedad San Sebastian
- 18:30 Deportivo Alaves        - FC Barcelona
- 18:30 FC Sevilla              - FC Valencia
- 18:30 CD Leganes              - Real Madrid
- 18:30 CA Osasuna              - RCD Mallorca
- 18:30 UD Levante              - FC Getafe
- 18:30 FC Granada              - Athletic Bilbao
+ 21:00 FC Villarreal           - SD Eibar
+ 21:00 Espanyol Barcelona      - Celta Vigo
+ 21:00 Real Valladolid         - Real Betis Sevilla
+ 21:00 Atletico Madrid         - Real Sociedad San Sebastian
+ 21:00 Deportivo Alaves        - FC Barcelona
+ 21:00 FC Sevilla              - FC Valencia
+ 21:00 CD Leganes              - Real Madrid
+ 21:00 CA Osasuna              - RCD Mallorca
+ 21:00 UD Levante              - FC Getafe
+ 21:00 FC Granada              - Athletic Bilbao

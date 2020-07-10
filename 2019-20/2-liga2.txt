@@ -687,30 +687,30 @@ Jornada 40
 
 
 Jornada 41
-[Mié.. 15.7.]
- 19:30 Real Oviedo             - Racing Santander
- 19:30 CD Teneriffa            - CD Lugo
- 19:30 Rayo Vallecano          - UD Las Palmas
- 19:30 FC Malaga               - AD Alcorcon
- 19:30 Albacete Balompie       - Real Saragossa
- 19:30 SD Ponferradina         - UD Almeria
- 19:30 CD Mirandes             - Deportivo La Coruna
- 19:30 FC Girona               - FC Cadiz
- 19:30 CF Fuenlabrada          - FC Elche
- 19:30 SD Huesca               - CD Numancia
- 19:30 Extremadura UD          - Sporting Gijon
+[Vie.. 17.7.]
+ 21:00 Real Oviedo             - Racing Santander
+ 21:00 CD Teneriffa            - CD Lugo
+ 21:00 Rayo Vallecano          - UD Las Palmas
+ 21:00 FC Malaga               - AD Alcorcon
+ 21:00 Albacete Balompie       - Real Saragossa
+ 21:00 SD Ponferradina         - UD Almeria
+ 21:00 CD Mirandes             - Deportivo La Coruna
+ 21:00 FC Girona               - FC Cadiz
+ 21:00 CF Fuenlabrada          - FC Elche
+ 21:00 SD Huesca               - CD Numancia
+ 21:00 Extremadura UD          - Sporting Gijon
 
 
 Jornada 42
-[Dom.. 19.7.]
- 17:00 Real Saragossa          - SD Ponferradina
- 17:00 Racing Santander        - Rayo Vallecano
- 17:00 Deportivo La Coruna     - CF Fuenlabrada
- 17:00 Sporting Gijon          - SD Huesca
- 17:00 UD Las Palmas           - Extremadura UD
- 17:00 CD Numancia             - CD Teneriffa
- 17:00 FC Elche                - Real Oviedo
- 17:00 UD Almeria              - FC Malaga
- 17:00 FC Cadiz                - Albacete Balompie
- 17:00 CD Lugo                 - CD Mirandes
- 17:00 AD Alcorcon             - FC Girona
+[Lun.. 20.7.]
+ 21:00 Real Saragossa          - SD Ponferradina
+ 21:00 Racing Santander        - Rayo Vallecano
+ 21:00 Deportivo La Coruna     - CF Fuenlabrada
+ 21:00 Sporting Gijon          - SD Huesca
+ 21:00 UD Las Palmas           - Extremadura UD
+ 21:00 CD Numancia             - CD Teneriffa
+ 21:00 FC Elche                - Real Oviedo
+ 21:00 UD Almeria              - FC Malaga
+ 21:00 FC Cadiz                - Albacete Balompie
+ 21:00 CD Lugo                 - CD Mirandes
+ 21:00 AD Alcorcon             - FC Girona
