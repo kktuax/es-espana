@@ -577,15 +577,16 @@ Jornada 36
  14:00 Espanyol Barcelona      0-2 SD Eibar
  17:00 UD Levante              1-2 Athletic Bilbao
  19:30 CD Leganes              1-0 FC Valencia
- 22:00 FC Sevilla              - RCD Mallorca
+ 22:00 FC Sevilla              2-0 RCD Mallorca
 [Lun.. 13.7.]
- 19:30 Deportivo Alaves        - FC Getafe
- 19:30 FC Villarreal           - Real Sociedad San Sebastian
- 22:00 FC Granada              - Real Madrid
+ 19:30 Deportivo Alaves        0-0 FC Getafe
+ 19:30 FC Villarreal           1-2 Real Sociedad San Sebastian
+ 22:00 FC Granada              1-2 Real Madrid
 
 
 Jornada 37
 [Jue.. 16.7.]
+ 18:30 SD Eibar                - Real Valladolid
  21:00 Celta Vigo              - UD Levante
  21:00 Athletic Bilbao         - CD Leganes
  21:00 Real Betis Sevilla      - Deportivo Alaves
@@ -595,7 +596,6 @@ Jornada 37
  21:00 RCD Mallorca            - FC Granada
  21:00 FC Valencia             - Espanyol Barcelona
  21:00 FC Getafe               - Atletico Madrid
- 21:00 SD Eibar                - Real Valladolid
 
 
 Jornada 38
