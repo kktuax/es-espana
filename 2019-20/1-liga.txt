@@ -586,16 +586,16 @@ Jornada 36
 
 Jornada 37
 [Jue.. 16.7.]
- 18:30 SD Eibar                - Real Valladolid
- 21:00 Celta Vigo              - UD Levante
- 21:00 Athletic Bilbao         - CD Leganes
- 21:00 Real Betis Sevilla      - Deportivo Alaves
- 21:00 Real Madrid             - FC Villarreal
- 21:00 FC Barcelona            - CA Osasuna
- 21:00 Real Sociedad San Sebastian - FC Sevilla
- 21:00 RCD Mallorca            - FC Granada
- 21:00 FC Valencia             - Espanyol Barcelona
- 21:00 FC Getafe               - Atletico Madrid
+ 18:30 SD Eibar                3-1 Real Valladolid
+ 21:00 Celta Vigo              2-3 UD Levante
+ 21:00 Athletic Bilbao         0-2 CD Leganes
+ 21:00 Real Betis Sevilla      1-2 Deportivo Alaves
+ 21:00 Real Madrid             2-1 FC Villarreal
+ 21:00 FC Barcelona            1-2 CA Osasuna
+ 21:00 Real Sociedad San Sebastian 0-0 FC Sevilla
+ 21:00 RCD Mallorca            1-2 FC Granada
+ 21:00 FC Valencia             1-0 Espanyol Barcelona
+ 21:00 FC Getafe               0-2 Atletico Madrid
 
 
 Jornada 38
