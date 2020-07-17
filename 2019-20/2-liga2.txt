@@ -688,17 +688,17 @@ Jornada 40
 
 Jornada 41
 [Vie.. 17.7.]
- 21:00 Real Oviedo             - Racing Santander
- 21:00 CD Teneriffa            - CD Lugo
- 21:00 Rayo Vallecano          - UD Las Palmas
- 21:00 FC Malaga               - AD Alcorcon
- 21:00 Albacete Balompie       - Real Saragossa
- 21:00 SD Ponferradina         - UD Almeria
- 21:00 CD Mirandes             - Deportivo La Coruna
- 21:00 FC Girona               - FC Cadiz
- 21:00 CF Fuenlabrada          - FC Elche
- 21:00 SD Huesca               - CD Numancia
- 21:00 Extremadura UD          - Sporting Gijon
+ 21:00 Real Oviedo             1-0 Racing Santander
+ 21:00 CD Teneriffa            1-2 CD Lugo
+ 21:00 Rayo Vallecano          2-2 UD Las Palmas
+ 21:00 FC Malaga               2-0 AD Alcorcon
+ 21:00 Albacete Balompie       4-1 Real Saragossa
+ 21:00 SD Ponferradina         2-1 UD Almeria
+ 21:00 CD Mirandes             1-0 Deportivo La Coruna
+ 21:00 FC Girona               2-1 FC Cadiz
+ 21:00 CF Fuenlabrada          3-1 FC Elche
+ 21:00 SD Huesca               3-0 CD Numancia
+ 21:00 Extremadura UD          2-0 Sporting Gijon
 
 
 Jornada 42
