@@ -600,13 +600,13 @@ Jornada 37
 
 Jornada 38
 [Dom.. 19.7.]
- 17:00 Deportivo Alaves        - FC Barcelona
- 18:30 Real Valladolid         - Real Betis Sevilla
- 18:30 FC Villarreal           - SD Eibar
- 21:00 Espanyol Barcelona      - Celta Vigo
- 21:00 Atletico Madrid         - Real Sociedad San Sebastian
- 21:00 FC Sevilla              - FC Valencia
- 21:00 CD Leganes              - Real Madrid
- 21:00 CA Osasuna              - RCD Mallorca
- 21:00 UD Levante              - FC Getafe
- 21:00 FC Granada              - Athletic Bilbao
+ 17:00 Deportivo Alaves        0-5 FC Barcelona
+ 18:30 Real Valladolid         2-0 Real Betis Sevilla
+ 18:30 FC Villarreal           4-0 SD Eibar
+ 21:00 Espanyol Barcelona      0-0 Celta Vigo
+ 21:00 Atletico Madrid         1-1 Real Sociedad San Sebastian
+ 21:00 FC Sevilla              1-0 FC Valencia
+ 21:00 CD Leganes              2-2 Real Madrid
+ 21:00 CA Osasuna              2-2 RCD Mallorca
+ 21:00 UD Levante              1-0 FC Getafe
+ 21:00 FC Granada              4-0 Athletic Bilbao
