@@ -714,3 +714,15 @@ Jornada 42
  21:00 FC Cadiz                0-1 Albacete Balompie
  21:00 CD Lugo                 2-1 CD Mirandes
  21:00 AD Alcorcon             2-0 FC Girona
+
+
+Jornada 43
+[Jue.. 23.7.]
+ 19:30 Sin Confirmar           - Real Saragossa
+ 22:00 FC Girona               - UD Almeria
+
+
+Jornada 44
+[Dom.. 26.7.]
+ 19:00 Real Saragossa          - Sin Confirmar
+ 22:00 UD Almeria              - FC Girona
