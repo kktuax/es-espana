@@ -703,7 +703,7 @@ Jornada 41
 
 Jornada 42
 [Mié.. 7.8.]
- 20:00 Deportivo La Coruna     - CF Fuenlabrada
+ 20:00 Deportivo La Coruna     2-1 CF Fuenlabrada
 [Lun.. 20.7.]
  18:30 UD Las Palmas           5-1 Extremadura UD
  21:00 Real Saragossa          2-1 SD Ponferradina
@@ -721,9 +721,11 @@ Jornada 43
 [Mar.. 13.8.]
  20:00 Sin Confirmar           - Real Saragossa
  20:00 FC Girona               - UD Almeria
+ 20:00 FC Elche                - Real Saragossa
 
 
 Jornada 44
 [Vie.. 16.8.]
  20:00 Real Saragossa          - Sin Confirmar
  20:00 UD Almeria              - FC Girona
+ 20:00 Real Saragossa          - FC Elche
