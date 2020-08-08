@@ -719,13 +719,13 @@ Jornada 42
 
 Jornada 43
 [Mar.. 13.8.]
+ 19:30 FC Girona               - UD Almeria
  20:00 Sin Confirmar           - Real Saragossa
- 20:00 FC Girona               - UD Almeria
- 20:00 FC Elche                - Real Saragossa
+ 22:00 FC Elche                - Real Saragossa
 
 
 Jornada 44
 [Vie.. 16.8.]
+ 19:00 UD Almeria              - FC Girona
  20:00 Real Saragossa          - Sin Confirmar
- 20:00 UD Almeria              - FC Girona
- 20:00 Real Saragossa          - FC Elche
+ 22:00 Real Saragossa          - FC Elche
