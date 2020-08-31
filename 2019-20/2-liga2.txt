@@ -16,6 +16,16 @@ Jornada 1
  18:30 FC Girona               1-1 Sporting Gijon
  20:00 FC Cadiz                3-1 SD Ponferradina
  20:00 UD Las Palmas           0-1 SD Huesca
+[Vie.. 13.9.]
+ 16:00 Espanyol Barcelona      - Albacete Balompie
+ 16:00 CF Fuenlabrada          - CD Lugo
+ 16:00 CD Leganes              - UD Las Palmas
+ 16:00 RCD Mallorca            - Rayo Vallecano
+ 16:00 CD Mirandes             - AD Alcorcon
+ 16:00 SD Ponferradina         - Castellón
+ 16:00 Real Oviedo             - FC Cartagena
+ 16:00 Sporting Gijon          - UD Logroñés
+ 16:00 CD Teneriffa            - FC Malaga
 
 
 Jornada 2
@@ -33,6 +43,16 @@ Jornada 2
  19:00 SD Huesca               3-1 Deportivo La Coruna
  20:00 CD Teneriffa            3-2 CD Numancia
  21:00 Extremadura UD          1-2 CF Fuenlabrada
+[Vie.. 20.9.]
+ 16:00 Albacete Balompie       - SD Ponferradina
+ 16:00 AD Alcorcon             - CD Teneriffa
+ 16:00 Castellón               - FC Malaga
+ 16:00 Espanyol Barcelona      - RCD Mallorca
+ 16:00 FC Cartagena            - Sporting Gijon
+ 16:00 UD Las Palmas           - CF Fuenlabrada
+ 16:00 CD Lugo                 - CD Leganes
+ 16:00 CD Mirandes             - Real Oviedo
+ 16:00 Rayo Vallecano          - Sabadell
 
 
 Jornada 3
@@ -50,6 +70,18 @@ Jornada 3
  19:00 FC Girona               1-0 FC Malaga
  20:00 SD Ponferradina         4-0 CD Teneriffa
  21:00 FC Cadiz                2-1 Extremadura UD
+[Vie.. 27.9.]
+ 16:00 CF Fuenlabrada          - Albacete Balompie
+ 16:00 CD Leganes              - FC Cartagena
+ 16:00 CD Lugo                 - UD Almeria
+ 16:00 RCD Mallorca            - Sabadell
+ 16:00 FC Malaga               - AD Alcorcon
+ 16:00 SD Ponferradina         - Rayo Vallecano
+ 16:00 Real Oviedo             - Espanyol Barcelona
+ 16:00 Real Saragossa          - UD Las Palmas
+ 16:00 Sporting Gijon          - FC Girona
+ 16:00 CD Teneriffa            - CD Mirandes
+ 16:00 UD Logroñés             - Castellón
 
 
 Jornada 4
@@ -66,7 +98,18 @@ Jornada 4
  16:00 FC Girona               3-1 Rayo Vallecano
  18:00 FC Elche                1-1 CD Lugo
  18:00 CD Mirandes             2-1 Real Oviedo
- 18:30 AD Alcorcon             0-3 Real Saragossa
+[Vie.. 4.10.]
+ 16:00 AD Alcorcon             0-3 Real Saragossa
+ 16:00 Albacete Balompie       - Real Oviedo
+ 16:00 UD Almeria              - Sporting Gijon
+ 16:00 Castellón               - CD Leganes
+ 16:00 FC Cartagena            - CD Lugo
+ 16:00 FC Girona               - CF Fuenlabrada
+ 16:00 UD Las Palmas           - UD Logroñés
+ 16:00 RCD Mallorca            - CD Teneriffa
+ 16:00 CD Mirandes             - SD Ponferradina
+ 16:00 Rayo Vallecano          - FC Malaga
+ 16:00 Sabadell                - Espanyol Barcelona
 
 
 Jornada 5
@@ -84,6 +127,18 @@ Jornada 5
  18:00 Real Saragossa          3-1 Extremadura UD
  20:00 CD Lugo                 2-0 CF Fuenlabrada
  21:00 Sporting Gijon          1-1 Deportivo La Coruna
+[Vie.. 11.10.]
+ 16:00 Espanyol Barcelona      - AD Alcorcon
+ 16:00 CF Fuenlabrada          - Castellón
+ 16:00 CD Leganes              - FC Girona
+ 16:00 CD Lugo                 - RCD Mallorca
+ 16:00 FC Malaga               - UD Las Palmas
+ 16:00 SD Ponferradina         - FC Cartagena
+ 16:00 Real Oviedo             - Sporting Gijon
+ 16:00 Real Saragossa          - Albacete Balompie
+ 16:00 Sabadell                - CD Mirandes
+ 16:00 CD Teneriffa            - Rayo Vallecano
+ 16:00 UD Logroñés             - UD Almeria
 
 
 Jornada 6
@@ -102,6 +157,18 @@ Jornada 6
  22:00 UD Las Palmas           1-0 Sporting Gijon
 [Mié.. 16.10.]
  21:00 CF Fuenlabrada          2-1 Real Saragossa
+[Vie.. 18.10.]
+ 16:00 Albacete Balompie       - Sabadell
+ 16:00 AD Alcorcon             - SD Ponferradina
+ 16:00 Castellón               - CD Lugo
+ 16:00 FC Cartagena            - CF Fuenlabrada
+ 16:00 FC Girona               - Real Oviedo
+ 16:00 UD Las Palmas           - UD Almeria
+ 16:00 CD Mirandes             - RCD Mallorca
+ 16:00 Rayo Vallecano          - Espanyol Barcelona
+ 16:00 Real Saragossa          - FC Malaga
+ 16:00 Sporting Gijon          - CD Teneriffa
+ 16:00 UD Logroñés             - CD Leganes
 
 
 Jornada 7
@@ -119,6 +186,18 @@ Jornada 7
  18:00 CD Numancia             1-1 FC Elche
  20:00 CD Teneriffa            0-1 CF Fuenlabrada
  20:00 Extremadura UD          0-1 SD Huesca
+[Lun.. 21.10.]
+ 21:00 UD Almeria              - FC Cartagena
+ 21:00 Espanyol Barcelona      - CD Mirandes
+ 21:00 CF Fuenlabrada          - UD Logroñés
+ 21:00 UD Las Palmas           - Castellón
+ 21:00 CD Leganes              - Real Saragossa
+ 21:00 CD Lugo                 - FC Girona
+ 21:00 RCD Mallorca            - Albacete Balompie
+ 21:00 FC Malaga               - Sporting Gijon
+ 21:00 SD Ponferradina         - CD Teneriffa
+ 21:00 Real Oviedo             - Rayo Vallecano
+ 21:00 Sabadell                - AD Alcorcon
 
 
 Jornada 8
@@ -136,6 +215,18 @@ Jornada 8
  18:30 Real Oviedo             2-2 Real Saragossa
  21:00 Deportivo La Coruna     1-1 CD Mirandes
  21:00 CD Lugo                 1-4 CD Teneriffa
+[Vie.. 25.10.]
+ 16:00 Albacete Balompie       - Rayo Vallecano
+ 16:00 AD Alcorcon             - RCD Mallorca
+ 16:00 UD Almeria              - CF Fuenlabrada
+ 16:00 Castellón               - FC Girona
+ 16:00 FC Cartagena            - UD Las Palmas
+ 16:00 CD Leganes              - Real Oviedo
+ 16:00 FC Malaga               - CD Mirandes
+ 16:00 Real Saragossa          - Sabadell
+ 16:00 Sporting Gijon          - SD Ponferradina
+ 16:00 CD Teneriffa            - Espanyol Barcelona
+ 16:00 UD Logroñés             - CD Lugo
 
 
 Jornada 9
@@ -153,6 +244,18 @@ Jornada 9
  19:00 Real Saragossa          2-2 FC Malaga
  19:00 Sporting Gijon          4-2 UD Almeria
  21:00 FC Girona               3-1 Deportivo La Coruna
+[Lun.. 28.10.]
+ 21:00 Albacete Balompie       - UD Las Palmas
+ 21:00 AD Alcorcon             - Sporting Gijon
+ 21:00 Castellón               - UD Almeria
+ 21:00 Espanyol Barcelona      - SD Ponferradina
+ 21:00 FC Girona               - FC Cartagena
+ 21:00 RCD Mallorca            - FC Malaga
+ 21:00 CD Mirandes             - Real Saragossa
+ 21:00 Rayo Vallecano          - CF Fuenlabrada
+ 21:00 Real Oviedo             - UD Logroñés
+ 21:00 Sabadell                - CD Leganes
+ 21:00 CD Teneriffa            - CD Lugo
 
 
 Jornada 10
@@ -170,6 +273,18 @@ Jornada 10
  18:30 Deportivo La Coruna     0-0 UD Almeria
  20:00 SD Huesca               2-0 FC Malaga
  20:30 Racing Santander        0-3 FC Girona
+[Vie.. 1.11.]
+ 16:00 UD Almeria              - FC Girona
+ 16:00 FC Cartagena            - Albacete Balompie
+ 16:00 CF Fuenlabrada          - CD Teneriffa
+ 16:00 UD Las Palmas           - Real Oviedo
+ 16:00 CD Leganes              - CD Mirandes
+ 16:00 CD Lugo                 - Rayo Vallecano
+ 16:00 FC Malaga               - Espanyol Barcelona
+ 16:00 SD Ponferradina         - Sabadell
+ 16:00 Real Saragossa          - RCD Mallorca
+ 16:00 Sporting Gijon          - Castellón
+ 16:00 UD Logroñés             - AD Alcorcon
 
 
 Jornada 11
@@ -187,6 +302,18 @@ Jornada 11
  18:00 Albacete Balompie       1-2 Real Oviedo
  18:00 SD Huesca               1-1 Racing Santander
  21:00 UD Las Palmas           3-0 Deportivo La Coruna
+[Vie.. 8.11.]
+ 16:00 Albacete Balompie       - CD Leganes
+ 16:00 AD Alcorcon             - CF Fuenlabrada
+ 16:00 Espanyol Barcelona      - CD Lugo
+ 16:00 FC Cartagena            - UD Logroñés
+ 16:00 FC Girona               - UD Las Palmas
+ 16:00 RCD Mallorca            - SD Ponferradina
+ 16:00 CD Mirandes             - Sporting Gijon
+ 16:00 Rayo Vallecano          - UD Almeria
+ 16:00 Real Oviedo             - Castellón
+ 16:00 Sabadell                - FC Malaga
+ 16:00 CD Teneriffa            - Real Saragossa
 
 
 Jornada 12
@@ -204,6 +331,18 @@ Jornada 12
  18:00 Real Oviedo             4-2 FC Girona
  18:00 CD Teneriffa            3-3 Racing Santander
  21:00 Real Saragossa          1-2 CD Mirandes
+[Vie.. 15.11.]
+ 16:00 UD Almeria              - CD Mirandes
+ 16:00 Castellón               - FC Cartagena
+ 16:00 CF Fuenlabrada          - Espanyol Barcelona
+ 16:00 FC Girona               - RCD Mallorca
+ 16:00 UD Las Palmas           - CD Teneriffa
+ 16:00 CD Leganes              - AD Alcorcon
+ 16:00 CD Lugo                 - Albacete Balompie
+ 16:00 SD Ponferradina         - FC Malaga
+ 16:00 Real Saragossa          - Real Oviedo
+ 16:00 Sporting Gijon          - Rayo Vallecano
+ 16:00 UD Logroñés             - Sabadell
 
 
 Jornada 13
@@ -221,6 +360,18 @@ Jornada 13
  18:00 UD Las Palmas           1-3 CF Fuenlabrada
  18:00 SD Huesca               2-0 FC Elche
  21:00 UD Almeria              3-2 Extremadura UD
+[Vie.. 22.11.]
+ 16:00 Albacete Balompie       - UD Almeria
+ 16:00 AD Alcorcon             - CD Lugo
+ 16:00 Espanyol Barcelona      - FC Girona
+ 16:00 RCD Mallorca            - Sporting Gijon
+ 16:00 CD Mirandes             - FC Cartagena
+ 16:00 FC Malaga               - CD Leganes
+ 16:00 SD Ponferradina         - Real Saragossa
+ 16:00 Rayo Vallecano          - Castellón
+ 16:00 Real Oviedo             - CF Fuenlabrada
+ 16:00 Sabadell                - UD Las Palmas
+ 16:00 CD Teneriffa            - UD Logroñés
 
 
 Jornada 14
@@ -238,6 +389,18 @@ Jornada 14
  16:00 CD Lugo                 1-0 Rayo Vallecano
  18:30 Real Saragossa          3-0 UD Las Palmas
  20:00 FC Elche                4-2 CD Mirandes
+[Lun.. 25.11.]
+ 21:00 UD Almeria              - CD Teneriffa
+ 21:00 Castellón               - AD Alcorcon
+ 21:00 FC Cartagena            - RCD Mallorca
+ 21:00 CF Fuenlabrada          - SD Ponferradina
+ 21:00 FC Girona               - FC Malaga
+ 21:00 UD Las Palmas           - CD Mirandes
+ 21:00 CD Leganes              - Espanyol Barcelona
+ 21:00 CD Lugo                 - Real Oviedo
+ 21:00 Real Saragossa          - Rayo Vallecano
+ 21:00 Sporting Gijon          - Sabadell
+ 21:00 UD Logroñés             - Albacete Balompie
 
 
 Jornada 15
@@ -255,6 +418,18 @@ Jornada 15
  18:00 Racing Santander        2-2 SD Ponferradina
  18:00 FC Malaga               0-0 CF Fuenlabrada
  21:00 Rayo Vallecano          1-1 FC Cadiz
+[Vie.. 29.11.]
+ 16:00 Albacete Balompie       - CD Teneriffa
+ 16:00 AD Alcorcon             - FC Girona
+ 16:00 Espanyol Barcelona      - Real Saragossa
+ 16:00 UD Las Palmas           - Sporting Gijon
+ 16:00 RCD Mallorca            - UD Logroñés
+ 16:00 CD Mirandes             - Castellón
+ 16:00 FC Malaga               - CD Lugo
+ 16:00 SD Ponferradina         - CD Leganes
+ 16:00 Rayo Vallecano          - FC Cartagena
+ 16:00 Real Oviedo             - UD Almeria
+ 16:00 Sabadell                - CF Fuenlabrada
 
 
 Jornada 16
@@ -271,6 +446,18 @@ Jornada 16
  18:30 CD Mirandes             2-1 UD Las Palmas
  18:30 CD Lugo                 1-1 Racing Santander
  21:00 CD Teneriffa            1-1 FC Cadiz
+[Lun.. 2.12.]
+ 21:00 UD Almeria              - RCD Mallorca
+ 21:00 Castellón               - Real Saragossa
+ 21:00 FC Cartagena            - Espanyol Barcelona
+ 21:00 CF Fuenlabrada          - FC Malaga
+ 21:00 FC Girona               - CD Mirandes
+ 21:00 CD Leganes              - Rayo Vallecano
+ 21:00 CD Lugo                 - UD Las Palmas
+ 21:00 Real Oviedo             - AD Alcorcon
+ 21:00 Sporting Gijon          - Albacete Balompie
+ 21:00 CD Teneriffa            - Sabadell
+ 21:00 UD Logroñés             - SD Ponferradina
 
 
 Jornada 17
@@ -288,6 +475,18 @@ Jornada 17
  18:00 UD Las Palmas           3-1 Real Oviedo
  18:00 FC Girona               2-0 CF Fuenlabrada
  21:00 FC Cadiz                2-1 CD Lugo
+[Vie.. 6.12.]
+ 16:00 Albacete Balompie       - FC Girona
+ 16:00 AD Alcorcon             - UD Almeria
+ 16:00 Espanyol Barcelona      - Sporting Gijon
+ 16:00 RCD Mallorca            - Castellón
+ 16:00 CD Mirandes             - CD Lugo
+ 16:00 FC Malaga               - FC Cartagena
+ 16:00 SD Ponferradina         - UD Las Palmas
+ 16:00 Rayo Vallecano          - UD Logroñés
+ 16:00 Real Saragossa          - CF Fuenlabrada
+ 16:00 Sabadell                - Real Oviedo
+ 16:00 CD Teneriffa            - CD Leganes
 
 
 Jornada 18
@@ -305,6 +504,18 @@ Jornada 18
  18:00 FC Elche                2-0 Racing Santander
  18:00 CD Lugo                 0-0 Deportivo La Coruna
  20:00 Extremadura UD          0-1 UD Las Palmas
+[Vie.. 13.12.]
+ 16:00 UD Almeria              - FC Malaga
+ 16:00 Castellón               - Albacete Balompie
+ 16:00 FC Cartagena            - Sabadell
+ 16:00 CF Fuenlabrada          - CD Mirandes
+ 16:00 FC Girona               - Rayo Vallecano
+ 16:00 UD Las Palmas           - AD Alcorcon
+ 16:00 CD Leganes              - RCD Mallorca
+ 16:00 CD Lugo                 - SD Ponferradina
+ 16:00 Real Oviedo             - CD Teneriffa
+ 16:00 Sporting Gijon          - Real Saragossa
+ 16:00 UD Logroñés             - Espanyol Barcelona
 
 
 Jornada 19
@@ -322,6 +533,18 @@ Jornada 19
  16:00 Deportivo La Coruna     1-3 Real Saragossa
  18:00 UD Las Palmas           3-1 CD Numancia
  21:00 FC Cadiz                0-0 FC Elche
+[Vie.. 20.12.]
+ 16:00 AD Alcorcon             - FC Cartagena
+ 16:00 Espanyol Barcelona      - UD Almeria
+ 16:00 RCD Mallorca            - CF Fuenlabrada
+ 16:00 CD Mirandes             - Albacete Balompie
+ 16:00 FC Malaga               - UD Logroñés
+ 16:00 SD Ponferradina         - Real Oviedo
+ 16:00 Rayo Vallecano          - UD Las Palmas
+ 16:00 Real Saragossa          - CD Lugo
+ 16:00 Sabadell                - Castellón
+ 16:00 Sporting Gijon          - CD Leganes
+ 16:00 CD Teneriffa            - FC Girona
 
 
 Jornada 20
@@ -336,8 +559,19 @@ Jornada 20
  12:00 Extremadura UD          0-0 FC Malaga
  16:00 Real Oviedo             0-2 FC Cadiz
  18:00 FC Elche                2-3 UD Las Palmas
- 18:00 CD Lugo                 1-2 Sporting Gijon
  20:00 CF Fuenlabrada          2-2 UD Almeria
+[Vie.. 3.1.]
+ 16:00 CD Lugo                 1-2 Sporting Gijon
+ 16:00 Albacete Balompie       - FC Malaga
+ 16:00 UD Almeria              - SD Ponferradina
+ 16:00 Castellón               - CD Teneriffa
+ 16:00 FC Cartagena            - Real Saragossa
+ 16:00 CF Fuenlabrada          - CD Leganes
+ 16:00 FC Girona               - Sabadell
+ 16:00 UD Las Palmas           - Espanyol Barcelona
+ 16:00 Rayo Vallecano          - AD Alcorcon
+ 16:00 Real Oviedo             - RCD Mallorca
+ 16:00 UD Logroñés             - CD Mirandes
 [Mié.. 10.6.]
  20:00 Rayo Vallecano          1-0 Albacete Balompie
 
@@ -357,6 +591,18 @@ Jornada 21
  16:00 SD Huesca               2-1 Real Saragossa
  18:00 AD Alcorcon             1-1 CF Fuenlabrada
  20:00 FC Girona               0-3 CD Mirandes
+[Vie.. 10.1.]
+ 16:00 AD Alcorcon             - Albacete Balompie
+ 16:00 Espanyol Barcelona      - Castellón
+ 16:00 CD Leganes              - UD Almeria
+ 16:00 RCD Mallorca            - UD Las Palmas
+ 16:00 CD Mirandes             - Rayo Vallecano
+ 16:00 FC Malaga               - Real Oviedo
+ 16:00 SD Ponferradina         - FC Girona
+ 16:00 Real Saragossa          - UD Logroñés
+ 16:00 Sabadell                - CD Lugo
+ 16:00 Sporting Gijon          - CF Fuenlabrada
+ 16:00 CD Teneriffa            - FC Cartagena
 
 
 Jornada 22
@@ -374,6 +620,18 @@ Jornada 22
  12:00 CD Numancia             0-1 Deportivo La Coruna
  16:00 Rayo Vallecano          1-0 FC Girona
  21:00 Real Oviedo             1-1 FC Malaga
+[Vie.. 24.1.]
+ 16:00 Albacete Balompie       - Real Saragossa
+ 16:00 UD Almeria              - Sabadell
+ 16:00 Castellón               - Sporting Gijon
+ 16:00 FC Cartagena            - CD Mirandes
+ 16:00 CF Fuenlabrada          - AD Alcorcon
+ 16:00 FC Girona               - Espanyol Barcelona
+ 16:00 UD Las Palmas           - CD Leganes
+ 16:00 CD Lugo                 - CD Teneriffa
+ 16:00 FC Malaga               - SD Ponferradina
+ 16:00 Rayo Vallecano          - RCD Mallorca
+ 16:00 UD Logroñés             - Real Oviedo
 
 
 Jornada 23
@@ -391,6 +649,18 @@ Jornada 23
  19:00 Deportivo La Coruna     2-1 Racing Santander
  20:00 FC Girona               3-1 Extremadura UD
  21:00 UD Almeria              2-0 Real Oviedo
+[Vie.. 31.1.]
+ 16:00 AD Alcorcon             - FC Malaga
+ 16:00 UD Almeria              - Castellón
+ 16:00 Espanyol Barcelona      - Rayo Vallecano
+ 16:00 CD Leganes              - CD Lugo
+ 16:00 RCD Mallorca            - FC Girona
+ 16:00 CD Mirandes             - UD Las Palmas
+ 16:00 Real Oviedo             - Albacete Balompie
+ 16:00 Real Saragossa          - SD Ponferradina
+ 16:00 Sabadell                - UD Logroñés
+ 16:00 Sporting Gijon          - FC Cartagena
+ 16:00 CD Teneriffa            - CF Fuenlabrada
 
 
 Jornada 24
@@ -407,6 +677,18 @@ Jornada 24
  18:15 Racing Santander        1-1 UD Las Palmas
  20:30 CD Teneriffa            1-0 FC Girona
  20:30 Extremadura UD          1-2 UD Almeria
+[Vie.. 7.2.]
+ 16:00 Albacete Balompie       - RCD Mallorca
+ 16:00 Castellón               - CD Mirandes
+ 16:00 FC Cartagena            - Real Oviedo
+ 16:00 CF Fuenlabrada          - UD Almeria
+ 16:00 FC Girona               - CD Leganes
+ 16:00 UD Las Palmas           - Sabadell
+ 16:00 CD Lugo                 - Espanyol Barcelona
+ 16:00 FC Malaga               - Real Saragossa
+ 16:00 SD Ponferradina         - AD Alcorcon
+ 16:00 Rayo Vallecano          - CD Teneriffa
+ 16:00 UD Logroñés             - Sporting Gijon
 [Mié.. 19.2.]
  21:00 CD Mirandes             1-1 Real Saragossa
 
@@ -426,6 +708,18 @@ Jornada 25
  18:15 Rayo Vallecano          1-1 Extremadura UD
  18:15 AD Alcorcon             3-1 SD Ponferradina
  20:30 FC Girona               1-1 Real Oviedo
+[Vie.. 14.2.]
+ 16:00 AD Alcorcon             - UD Logroñés
+ 16:00 UD Almeria              - UD Las Palmas
+ 16:00 Castellón               - CF Fuenlabrada
+ 16:00 FC Cartagena            - Rayo Vallecano
+ 16:00 CD Leganes              - Albacete Balompie
+ 16:00 RCD Mallorca            - Espanyol Barcelona
+ 16:00 CD Mirandes             - FC Girona
+ 16:00 Real Oviedo             - CD Lugo
+ 16:00 Sabadell                - Real Saragossa
+ 16:00 Sporting Gijon          - FC Malaga
+ 16:00 CD Teneriffa            - SD Ponferradina
 
 
 Jornada 26
@@ -443,6 +737,18 @@ Jornada 26
  18:15 CD Mirandes             0-0 Rayo Vallecano
  20:30 Real Oviedo             3-1 Albacete Balompie
  20:30 Racing Santander        1-1 AD Alcorcon
+[Vie.. 21.2.]
+ 16:00 Albacete Balompie       - Sporting Gijon
+ 16:00 Espanyol Barcelona      - Sabadell
+ 16:00 CF Fuenlabrada          - Real Oviedo
+ 16:00 FC Girona               - Castellón
+ 16:00 UD Las Palmas           - FC Cartagena
+ 16:00 CD Leganes              - CD Teneriffa
+ 16:00 CD Lugo                 - UD Logroñés
+ 16:00 RCD Mallorca            - UD Almeria
+ 16:00 FC Malaga               - Rayo Vallecano
+ 16:00 SD Ponferradina         - CD Mirandes
+ 16:00 Real Saragossa          - AD Alcorcon
 
 
 Jornada 27
@@ -460,6 +766,18 @@ Jornada 27
  18:15 Rayo Vallecano          1-1 Real Oviedo
  18:15 CD Lugo                 2-2 FC Elche
  20:30 FC Malaga               2-1 CD Numancia
+[Vie.. 28.2.]
+ 16:00 UD Almeria              - CD Lugo
+ 16:00 Castellón               - UD Las Palmas
+ 16:00 FC Cartagena            - CD Leganes
+ 16:00 CF Fuenlabrada          - FC Girona
+ 16:00 CD Mirandes             - FC Malaga
+ 16:00 Rayo Vallecano          - SD Ponferradina
+ 16:00 Real Oviedo             - Real Saragossa
+ 16:00 Sabadell                - Albacete Balompie
+ 16:00 Sporting Gijon          - Espanyol Barcelona
+ 16:00 CD Teneriffa            - AD Alcorcon
+ 16:00 UD Logroñés             - RCD Mallorca
 
 
 Jornada 28
@@ -477,6 +795,18 @@ Jornada 28
  18:15 Racing Santander        0-2 Sporting Gijon
  18:15 SD Ponferradina         0-0 Extremadura UD
  20:30 CD Teneriffa            0-0 Rayo Vallecano
+[Sáb.. 7.3.]
+ 16:00 Albacete Balompie       - UD Logroñés
+ 16:00 AD Alcorcon             - CD Mirandes
+ 16:00 Espanyol Barcelona      - Real Oviedo
+ 16:00 FC Girona               - UD Almeria
+ 16:00 UD Las Palmas           - Rayo Vallecano
+ 16:00 CD Leganes              - Castellón
+ 16:00 CD Lugo                 - CF Fuenlabrada
+ 16:00 RCD Mallorca            - FC Cartagena
+ 16:00 FC Malaga               - Sabadell
+ 16:00 SD Ponferradina         - Sporting Gijon
+ 16:00 Real Saragossa          - CD Teneriffa
 
 
 Jornada 29
@@ -494,6 +824,18 @@ Jornada 29
  18:15 FC Malaga               2-0 Racing Santander
  18:15 Extremadura UD          3-2 CD Mirandes
  21:00 Rayo Vallecano          2-0 SD Huesca
+[Sáb.. 14.3.]
+ 16:00 UD Almeria              - AD Alcorcon
+ 16:00 Castellón               - Sabadell
+ 16:00 FC Cartagena            - SD Ponferradina
+ 16:00 CF Fuenlabrada          - UD Las Palmas
+ 16:00 FC Girona               - CD Lugo
+ 16:00 CD Mirandes             - Espanyol Barcelona
+ 16:00 Rayo Vallecano          - Real Saragossa
+ 16:00 Real Oviedo             - CD Leganes
+ 16:00 Sporting Gijon          - RCD Mallorca
+ 16:00 CD Teneriffa            - Albacete Balompie
+ 16:00 UD Logroñés             - FC Malaga
 
 
 Jornada 30
@@ -511,13 +853,24 @@ Jornada 30
  16:00 FC Elche                2-0 CD Numancia
  18:15 Real Oviedo             1-0 CD Teneriffa
  18:15 CF Fuenlabrada          3-4 AD Alcorcon
+[Sáb.. 21.3.]
+ 16:00 Albacete Balompie       - FC Cartagena
+ 16:00 AD Alcorcon             - Rayo Vallecano
+ 16:00 Espanyol Barcelona      - UD Logroñés
+ 16:00 UD Las Palmas           - FC Girona
+ 16:00 CD Leganes              - CF Fuenlabrada
+ 16:00 CD Lugo                 - Castellón
+ 16:00 RCD Mallorca            - Real Oviedo
+ 16:00 FC Malaga               - CD Teneriffa
+ 16:00 SD Ponferradina         - UD Almeria
+ 16:00 Real Saragossa          - CD Mirandes
+ 16:00 Sabadell                - Sporting Gijon
 
 
 Jornada 31
 [Vie.. 6.3.]
  21:00 CD Lugo                 1-1 FC Cadiz
 [Sáb.. 7.3.]
- 16:00 FC Girona               1-1 Albacete Balompie
  16:00 Extremadura UD          1-2 Real Oviedo
  18:15 CD Numancia             1-2 Racing Santander
  18:15 SD Huesca               2-0 CF Fuenlabrada
@@ -528,9 +881,33 @@ Jornada 31
  18:15 Sporting Gijon          4-0 UD Las Palmas
  18:15 AD Alcorcon             1-2 CD Mirandes
  20:30 CD Teneriffa            1-0 SD Ponferradina
+[Sáb.. 28.3.]
+ 16:00 FC Girona               1-1 Albacete Balompie
+ 16:00 UD Almeria              - CD Leganes
+ 16:00 Castellón               - Espanyol Barcelona
+ 16:00 FC Cartagena            - FC Malaga
+ 16:00 CF Fuenlabrada          - RCD Mallorca
+ 16:00 CD Lugo                 - Sabadell
+ 16:00 Rayo Vallecano          - CD Mirandes
+ 16:00 Real Oviedo             - SD Ponferradina
+ 16:00 Sporting Gijon          - AD Alcorcon
+ 16:00 CD Teneriffa            - UD Las Palmas
+ 16:00 UD Logroñés             - Real Saragossa
 
 
 Jornada 32
+[Mar.. 31.3.]
+ 21:00 Albacete Balompie       - Castellón
+ 21:00 AD Alcorcon             - Real Oviedo
+ 21:00 Espanyol Barcelona      - CF Fuenlabrada
+ 21:00 UD Las Palmas           - CD Lugo
+ 21:00 RCD Mallorca            - CD Leganes
+ 21:00 CD Mirandes             - CD Teneriffa
+ 21:00 FC Malaga               - UD Almeria
+ 21:00 SD Ponferradina         - UD Logroñés
+ 21:00 Rayo Vallecano          - Sporting Gijon
+ 21:00 Real Saragossa          - FC Cartagena
+ 21:00 Sabadell                - FC Girona
 [Vie.. 12.6.]
  19:30 FC Malaga               1-3 SD Huesca
  19:30 CF Fuenlabrada          1-0 CD Teneriffa
@@ -548,6 +925,18 @@ Jornada 32
 
 
 Jornada 33
+[Sáb.. 4.4.]
+ 16:00 Albacete Balompie       - Espanyol Barcelona
+ 16:00 UD Almeria              - Rayo Vallecano
+ 16:00 Castellón               - Real Oviedo
+ 16:00 FC Cartagena            - AD Alcorcon
+ 16:00 CF Fuenlabrada          - Real Saragossa
+ 16:00 FC Girona               - SD Ponferradina
+ 16:00 UD Las Palmas           - RCD Mallorca
+ 16:00 CD Leganes              - Sabadell
+ 16:00 CD Lugo                 - FC Malaga
+ 16:00 Sporting Gijon          - CD Mirandes
+ 16:00 UD Logroñés             - CD Teneriffa
 [Lun.. 15.6.]
  19:30 SD Ponferradina         2-1 FC Elche
  21:30 CD Teneriffa            0-0 FC Malaga
@@ -566,12 +955,23 @@ Jornada 33
 
 
 Jornada 34
+[Sáb.. 11.4.]
+ 16:00 Real Saragossa          0-2 UD Almeria
+ 16:00 AD Alcorcon             - Castellón
+ 16:00 Espanyol Barcelona      - CD Leganes
+ 16:00 RCD Mallorca            - CD Lugo
+ 16:00 CD Mirandes             - UD Logroñés
+ 16:00 FC Malaga               - Albacete Balompie
+ 16:00 SD Ponferradina         - CF Fuenlabrada
+ 16:00 Rayo Vallecano          - FC Girona
+ 16:00 Real Oviedo             - UD Las Palmas
+ 16:00 Sabadell                - FC Cartagena
+ 16:00 CD Teneriffa            - Sporting Gijon
 [Vie.. 19.6.]
  19:30 FC Elche                1-0 FC Girona
 [Sáb.. 20.6.]
  17:00 Deportivo La Coruna     3-3 Rayo Vallecano
  19:30 UD Las Palmas           1-0 CD Lugo
- 19:30 Real Saragossa          0-2 UD Almeria
  21:45 FC Malaga               1-1 Extremadura UD
 [Dom.. 21.6.]
  17:00 Racing Santander        1-2 CD Teneriffa
@@ -584,6 +984,18 @@ Jornada 34
 
 
 Jornada 35
+[Sáb.. 18.4.]
+ 16:00 Albacete Balompie       - CD Mirandes
+ 16:00 UD Almeria              - Espanyol Barcelona
+ 16:00 Castellón               - RCD Mallorca
+ 16:00 FC Cartagena            - CD Teneriffa
+ 16:00 CF Fuenlabrada          - Sabadell
+ 16:00 FC Girona               - Real Saragossa
+ 16:00 UD Las Palmas           - FC Malaga
+ 16:00 CD Leganes              - SD Ponferradina
+ 16:00 CD Lugo                 - AD Alcorcon
+ 16:00 Sporting Gijon          - Real Oviedo
+ 16:00 UD Logroñés             - Rayo Vallecano
 [Mar.. 23.6.]
  19:30 FC Elche                0-1 Deportivo La Coruna
  19:30 CD Lugo                 0-0 FC Malaga
@@ -601,6 +1013,18 @@ Jornada 35
 
 
 Jornada 36
+[Sáb.. 25.4.]
+ 16:00 CD Mirandes             2-2 UD Almeria
+ 16:00 AD Alcorcon             - CD Leganes
+ 16:00 Espanyol Barcelona      - UD Las Palmas
+ 16:00 FC Malaga               - CF Fuenlabrada
+ 16:00 SD Ponferradina         - CD Lugo
+ 16:00 Rayo Vallecano          - Albacete Balompie
+ 16:00 Real Oviedo             - FC Girona
+ 16:00 Real Saragossa          - Sporting Gijon
+ 16:00 Sabadell                - RCD Mallorca
+ 16:00 CD Teneriffa            - Castellón
+ 16:00 UD Logroñés             - FC Cartagena
 [Sáb.. 27.6.]
  17:00 Deportivo La Coruna     2-1 SD Ponferradina
  19:30 UD Las Palmas           1-1 FC Elche
@@ -608,7 +1032,6 @@ Jornada 36
  21:45 Racing Santander        1-2 Albacete Balompie
 [Dom.. 28.6.]
  17:00 Sporting Gijon          2-0 CD Lugo
- 17:00 CD Mirandes             2-2 UD Almeria
  19:30 FC Malaga               2-0 FC Girona
  19:30 CD Numancia             1-0 Real Oviedo
  21:45 CF Fuenlabrada          1-1 Extremadura UD
@@ -618,6 +1041,18 @@ Jornada 36
 
 
 Jornada 37
+[Sáb.. 2.5.]
+ 16:00 Albacete Balompie       1-1 AD Alcorcon
+ 16:00 UD Almeria              - Real Oviedo
+ 16:00 Castellón               - UD Logroñés
+ 16:00 Espanyol Barcelona      - FC Malaga
+ 16:00 CF Fuenlabrada          - FC Cartagena
+ 16:00 FC Girona               - CD Teneriffa
+ 16:00 UD Las Palmas           - SD Ponferradina
+ 16:00 CD Leganes              - Sporting Gijon
+ 16:00 CD Lugo                 - Real Saragossa
+ 16:00 RCD Mallorca            - CD Mirandes
+ 16:00 Sabadell                - Rayo Vallecano
 [Mar.. 30.6.]
  19:30 CD Teneriffa            1-1 Deportivo La Coruna
  21:45 FC Elche                0-0 FC Cadiz
@@ -629,13 +1064,24 @@ Jornada 37
  21:45 Extremadura UD          3-1 Racing Santander
 [Jue.. 2.7.]
  19:30 SD Huesca               1-0 UD Las Palmas
- 20:00 Albacete Balompie       1-1 AD Alcorcon
  21:45 Rayo Vallecano          0-0 FC Malaga
 [Vie.. 3.7.]
  19:30 FC Girona               1-0 Real Saragossa
 
 
 Jornada 38
+[Sáb.. 9.5.]
+ 16:00 AD Alcorcon             - UD Las Palmas
+ 16:00 FC Cartagena            - Castellón
+ 16:00 CD Mirandes             - CF Fuenlabrada
+ 16:00 FC Malaga               - RCD Mallorca
+ 16:00 SD Ponferradina         - Albacete Balompie
+ 16:00 Rayo Vallecano          - CD Leganes
+ 16:00 Real Oviedo             - Sabadell
+ 16:00 Real Saragossa          - Espanyol Barcelona
+ 16:00 Sporting Gijon          - CD Lugo
+ 16:00 CD Teneriffa            - UD Almeria
+ 16:00 UD Logroñés             - FC Girona
 [Sáb.. 4.7.]
  17:00 Racing Santander        1-2 FC Elche
  17:00 CD Numancia             1-0 Extremadura UD
@@ -653,6 +1099,18 @@ Jornada 38
 
 
 Jornada 39
+[Sáb.. 16.5.]
+ 16:00 UD Almeria              - Albacete Balompie
+ 16:00 Castellón               - SD Ponferradina
+ 16:00 Espanyol Barcelona      - FC Cartagena
+ 16:00 CF Fuenlabrada          - Rayo Vallecano
+ 16:00 FC Girona               - Sporting Gijon
+ 16:00 UD Las Palmas           - Real Saragossa
+ 16:00 CD Leganes              - UD Logroñés
+ 16:00 CD Lugo                 - CD Mirandes
+ 16:00 RCD Mallorca            - AD Alcorcon
+ 16:00 Real Oviedo             - FC Malaga
+ 16:00 Sabadell                - CD Teneriffa
 [Mar.. 7.7.]
  19:30 CD Mirandes             1-0 FC Elche
  20:30 CF Fuenlabrada          1-0 Racing Santander
@@ -670,6 +1128,18 @@ Jornada 39
 
 
 Jornada 40
+[Mar.. 19.5.]
+ 21:00 Albacete Balompie       - CD Lugo
+ 21:00 AD Alcorcon             - Sabadell
+ 21:00 FC Cartagena            - UD Almeria
+ 21:00 CD Mirandes             - CD Leganes
+ 21:00 FC Malaga               - FC Girona
+ 21:00 SD Ponferradina         - Espanyol Barcelona
+ 21:00 Rayo Vallecano          - Real Oviedo
+ 21:00 Real Saragossa          - Castellón
+ 21:00 Sporting Gijon          - UD Las Palmas
+ 21:00 CD Teneriffa            - RCD Mallorca
+ 21:00 UD Logroñés             - CF Fuenlabrada
 [Sáb.. 11.7.]
  17:00 Racing Santander        1-0 SD Huesca
  19:30 UD Las Palmas           1-0 CD Mirandes
@@ -687,6 +1157,18 @@ Jornada 40
 
 
 Jornada 41
+[Sáb.. 23.5.]
+ 16:00 UD Almeria              - UD Logroñés
+ 16:00 Castellón               - Rayo Vallecano
+ 16:00 Espanyol Barcelona      - CD Teneriffa
+ 16:00 CF Fuenlabrada          - Sporting Gijon
+ 16:00 FC Girona               - AD Alcorcon
+ 16:00 UD Las Palmas           - Albacete Balompie
+ 16:00 CD Leganes              - FC Malaga
+ 16:00 CD Lugo                 - FC Cartagena
+ 16:00 RCD Mallorca            - Real Saragossa
+ 16:00 Real Oviedo             - CD Mirandes
+ 16:00 Sabadell                - SD Ponferradina
 [Vie.. 17.7.]
  21:00 Real Oviedo             1-0 Racing Santander
  21:00 CD Teneriffa            1-2 CD Lugo
@@ -704,6 +1186,18 @@ Jornada 41
 Jornada 42
 [Mié.. 7.8.]
  20:00 Deportivo La Coruna     2-1 CF Fuenlabrada
+[Sáb.. 30.5.]
+ 16:00 Albacete Balompie       - CF Fuenlabrada
+ 16:00 AD Alcorcon             - Espanyol Barcelona
+ 16:00 FC Cartagena            - FC Girona
+ 16:00 CD Mirandes             - Sabadell
+ 16:00 FC Malaga               - Castellón
+ 16:00 SD Ponferradina         - RCD Mallorca
+ 16:00 Rayo Vallecano          - CD Lugo
+ 16:00 Real Saragossa          - CD Leganes
+ 16:00 Sporting Gijon          - UD Almeria
+ 16:00 CD Teneriffa            - Real Oviedo
+ 16:00 UD Logroñés             - UD Las Palmas
 [Lun.. 20.7.]
  18:30 UD Las Palmas           5-1 Extremadura UD
  21:00 Real Saragossa          2-1 SD Ponferradina
